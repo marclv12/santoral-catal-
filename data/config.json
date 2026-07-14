@@ -1,0 +1,19 @@
+{
+  "project_name": "Bon Dia Catalunya",
+  "timezone": "Europe/Madrid",
+  "web_url": "",
+  "location": {
+    "name": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.3874,
+    "longitude": 2.1686
+  },
+  "message": {
+    "max_events": 4,
+    "show_astronomy": true,
+    "show_secondary_saints": true,
+    "show_international_day": true,
+    "show_quote": true,
+    "show_seasonal_note": true
+  }
+}

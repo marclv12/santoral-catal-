@@ -1,0 +1,37 @@
+{
+  "01-01": {
+    "saints": ["Santa Maria, Mare de Déu", "Sant Fulgenci"],
+    "source_name": "Arquebisbat de Tarragona",
+    "source_url": "https://www.santoral.arquebisbattarragona.cat/Calendari"
+  },
+  "04-23": {
+    "saints": ["Sant Jordi, màrtir", "Sant Adalbert"],
+    "source_name": "Arquebisbat de Tarragona",
+    "source_url": "https://www.santoral.arquebisbattarragona.cat/Calendari"
+  },
+  "04-25": {
+    "saints": ["Sant Marc, evangelista", "Sant Anià", "Sant Clet"],
+    "source_name": "Santoral Català — Llauradó",
+    "source_url": "https://www.llaurado.info/santoral/abril/25/"
+  },
+  "07-14": {
+    "saints": ["Sant Camil de Lel·lis", "Sant Francesc Solano", "Santa Adela"],
+    "source_name": "Santoral Català — Llauradó",
+    "source_url": "https://www.llaurado.info/santoral/juliol/14/"
+  },
+  "09-11": {
+    "saints": ["Sant Protus", "Sant Jacint", "Santa Teodora Alexandrina"],
+    "source_name": "Santoral Català — Llauradó",
+    "source_url": "https://www.llaurado.info/santoral/setembre/11/"
+  },
+  "10-09": {
+    "saints": ["Sant Dionís", "Sant Joan Leonardi"],
+    "source_name": "Arquebisbat de Tarragona",
+    "source_url": "https://www.santoral.arquebisbattarragona.cat/Calendari"
+  },
+  "12-31": {
+    "saints": ["Sant Silvestre I, papa", "Santa Coloma"],
+    "source_name": "Arquebisbat de Tarragona",
+    "source_url": "https://www.santoral.arquebisbattarragona.cat/Calendari"
+  }
+}

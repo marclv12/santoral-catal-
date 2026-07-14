@@ -1,0 +1,589 @@
+{
+  "01": {
+    "fruites": [
+      "clementina",
+      "mandarina",
+      "taronja navel",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "poma Reineta",
+      "poma Gala",
+      "pera Blanquilla",
+      "pera Conference"
+    ],
+    "hortalisses": [
+      "ceba",
+      "calçot",
+      "all tendre",
+      "porro",
+      "faves",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "pastanaga",
+      "carxofa",
+      "api",
+      "col",
+      "coliflor",
+      "bròquil"
+    ],
+    "pesca": [
+      "maire",
+      "galera",
+      "sípia",
+      "llenguado",
+      "lluç"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "02": {
+    "fruites": [
+      "clementina",
+      "mandarina",
+      "taronja navel",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "poma Reineta",
+      "poma Gala",
+      "pera Blanquilla",
+      "pera Conference",
+      "maduixot"
+    ],
+    "hortalisses": [
+      "ceba",
+      "calçot",
+      "all tendre",
+      "porro",
+      "faves",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "pastanaga",
+      "carxofa",
+      "api",
+      "col",
+      "coliflor",
+      "bròquil"
+    ],
+    "pesca": [
+      "maire",
+      "sípia",
+      "lluç"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "03": {
+    "fruites": [
+      "mandarina",
+      "taronja navel",
+      "taronja blanca",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "poma Reineta",
+      "poma Gala",
+      "pera Blanquilla",
+      "pera Conference",
+      "maduixot"
+    ],
+    "hortalisses": [
+      "ceba",
+      "calçot",
+      "all tendre",
+      "porro",
+      "faves",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "pastanaga",
+      "carxofa",
+      "api",
+      "col",
+      "coliflor",
+      "bròquil"
+    ],
+    "pesca": [
+      "maire",
+      "seitó",
+      "llenguado",
+      "sonso",
+      "lluç"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "04": {
+    "fruites": [
+      "mandarina",
+      "taronja navel",
+      "taronja blanca",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "poma Reineta",
+      "pera Blanquilla",
+      "pera Conference",
+      "maduixot",
+      "cirera",
+      "nespra"
+    ],
+    "hortalisses": [
+      "patata primerenca",
+      "ceba",
+      "calçot",
+      "all tendre",
+      "porro",
+      "mongeta verda",
+      "faves",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "pastanaga",
+      "carxofa",
+      "carbassó",
+      "col",
+      "coliflor",
+      "bròquil",
+      "cogombre"
+    ],
+    "pesca": [
+      "maire",
+      "seitó",
+      "llenguado",
+      "gamba",
+      "sardina",
+      "sonso",
+      "lluç"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "05": {
+    "fruites": [
+      "mandarina",
+      "taronja navel",
+      "taronja blanca",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "pera Conference",
+      "pruna",
+      "albercoc",
+      "maduixot",
+      "cirera",
+      "nespra"
+    ],
+    "hortalisses": [
+      "patata primerenca",
+      "ceba",
+      "all tendre",
+      "porro",
+      "mongeta verda",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "tomàquet",
+      "pastanaga",
+      "carbassó",
+      "col",
+      "coliflor",
+      "bròquil",
+      "cogombre",
+      "meló"
+    ],
+    "pesca": [
+      "maire",
+      "seitó",
+      "gamba",
+      "sardina",
+      "sonso",
+      "lluç",
+      "escórpora"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "06": {
+    "fruites": [
+      "taronja blanca",
+      "poma Golden",
+      "pera Conference",
+      "pruna",
+      "préssec",
+      "nectarina",
+      "albercoc",
+      "maduixot",
+      "cirera",
+      "nespra"
+    ],
+    "hortalisses": [
+      "patata primerenca",
+      "ceba",
+      "porro",
+      "mongeta verda",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "tomàquet",
+      "pastanaga",
+      "albergínia",
+      "carbassó",
+      "col",
+      "cogombre",
+      "meló",
+      "síndria"
+    ],
+    "pesca": [
+      "maire",
+      "seitó",
+      "gamba",
+      "sardina",
+      "sonso",
+      "verat",
+      "lluç",
+      "escórpora"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "07": {
+    "fruites": [
+      "taronja blanca",
+      "poma Golden",
+      "pera Llimonera",
+      "pera Ercolini",
+      "pera Williams",
+      "pera Conference",
+      "pruna",
+      "préssec",
+      "nectarina",
+      "albercoc",
+      "cirera",
+      "figa"
+    ],
+    "hortalisses": [
+      "ceba",
+      "mongeta verda",
+      "bleda",
+      "enciam",
+      "tomàquet",
+      "pastanaga",
+      "pebrot",
+      "albergínia",
+      "carbassó",
+      "col",
+      "cogombre",
+      "meló",
+      "síndria"
+    ],
+    "pesca": [
+      "maire",
+      "seitó",
+      "gamba",
+      "sardina",
+      "sonso",
+      "verat",
+      "lluç",
+      "escórpora"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "08": {
+    "fruites": [
+      "taronja blanca",
+      "poma Golden",
+      "poma Gala",
+      "pera Llimonera",
+      "pera Ercolini",
+      "pera Williams",
+      "pera Blanquilla",
+      "pera Conference",
+      "pruna",
+      "préssec",
+      "nectarina",
+      "albercoc",
+      "figa"
+    ],
+    "hortalisses": [
+      "ceba",
+      "mongeta verda",
+      "bleda",
+      "enciam",
+      "tomàquet",
+      "pastanaga",
+      "pebrot",
+      "albergínia",
+      "carbassó",
+      "col",
+      "cogombre",
+      "meló",
+      "síndria"
+    ],
+    "pesca": [
+      "seitó",
+      "gamba",
+      "sardina",
+      "sonso",
+      "verat",
+      "lluç",
+      "escórpora"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "09": {
+    "fruites": [
+      "clementina",
+      "satsuma",
+      "taronja blanca",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Reineta",
+      "poma Gala",
+      "pera Llimonera",
+      "pera Ercolini",
+      "pera Williams",
+      "pera Blanquilla",
+      "pera Conference",
+      "pruna",
+      "préssec",
+      "nectarina",
+      "figa",
+      "raïm"
+    ],
+    "hortalisses": [
+      "ceba",
+      "porro",
+      "mongeta verda",
+      "bleda",
+      "enciam",
+      "escarola",
+      "tomàquet",
+      "pastanaga",
+      "pebrot",
+      "api",
+      "albergínia",
+      "carbassó",
+      "col",
+      "coliflor",
+      "bròquil",
+      "cogombre",
+      "meló",
+      "síndria"
+    ],
+    "pesca": [
+      "seitó",
+      "sípia",
+      "llenguado",
+      "gamba",
+      "sardina",
+      "calamar",
+      "bonítol",
+      "verat",
+      "lluç",
+      "escórpora"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "10": {
+    "fruites": [
+      "clementina",
+      "satsuma",
+      "taronja navel",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Reineta",
+      "poma Gala",
+      "pera Llimonera",
+      "pera Ercolini",
+      "pera Williams",
+      "pera Blanquilla",
+      "pera Conference",
+      "préssec",
+      "nectarina",
+      "figa",
+      "raïm"
+    ],
+    "hortalisses": [
+      "ceba",
+      "all tendre",
+      "porro",
+      "mongeta verda",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "tomàquet",
+      "pastanaga",
+      "pebrot",
+      "carxofa",
+      "api",
+      "albergínia",
+      "carbassó",
+      "col",
+      "coliflor",
+      "bròquil",
+      "cogombre",
+      "meló",
+      "síndria"
+    ],
+    "pesca": [
+      "galera",
+      "sípia",
+      "llenguado",
+      "sardina",
+      "calamar",
+      "bonítol",
+      "verat",
+      "lluç",
+      "escórpora"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "11": {
+    "fruites": [
+      "clementina",
+      "taronja navel",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "poma Reineta",
+      "poma Gala",
+      "pera Llimonera",
+      "pera Williams",
+      "pera Blanquilla",
+      "pera Conference",
+      "raïm"
+    ],
+    "hortalisses": [
+      "patata tardana",
+      "ceba",
+      "all tendre",
+      "porro",
+      "mongeta verda",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "tomàquet",
+      "pastanaga",
+      "pebrot",
+      "carxofa",
+      "api",
+      "albergínia",
+      "carbassó",
+      "col",
+      "coliflor",
+      "bròquil",
+      "cogombre"
+    ],
+    "pesca": [
+      "galera",
+      "sípia",
+      "llenguado",
+      "calamar",
+      "bonítol",
+      "lluç"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "12": {
+    "fruites": [
+      "clementina",
+      "mandarina",
+      "taronja navel",
+      "poma Golden",
+      "pomes vermelles",
+      "poma Fuji",
+      "poma Reineta",
+      "poma Gala",
+      "pera Williams",
+      "pera Blanquilla",
+      "pera Conference",
+      "raïm"
+    ],
+    "hortalisses": [
+      "patata tardana",
+      "ceba",
+      "calçot",
+      "all tendre",
+      "porro",
+      "pèsols",
+      "espinacs",
+      "bleda",
+      "enciam",
+      "escarola",
+      "tomàquet",
+      "pastanaga",
+      "carxofa",
+      "api",
+      "col",
+      "coliflor",
+      "bròquil"
+    ],
+    "pesca": [
+      "galera",
+      "sípia",
+      "llenguado",
+      "calamar",
+      "bonítol",
+      "lluç"
+    ],
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  }
+}

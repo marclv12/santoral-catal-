@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-14",
+  "date_ca": "Dimarts, 14 de juliol de 2026",
+  "day_of_year": 195,
+  "days_remaining": 170,
+  "week": 29,
+  "location": "Barcelona",
+  "sunrise": "06:30",
+  "sunset": "21:23",
+  "moon_phase": "lluna nova",
+  "saints": [
+    "Sant Camil de Lel·lis",
+    "Sant Francesc Solano",
+    "Santa Adela"
+  ],
+  "saint_source": {
+    "name": "Santoral Català — Llauradó",
+    "url": "https://www.llaurado.info/santoral/juliol/14/",
+    "status": "cached"
+  },
+  "efemerides": [
+    {
+      "id": "cat-1983-policia-generalitat-mossos",
+      "year": 1983,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Creació de la Policia Autonòmica de la Generalitat",
+      "text": "el Parlament aprovà la Llei 19/1983, que creava la Policia Autonòmica de la Generalitat i establia el Cos de Mossos d'Esquadra com a nucli inicial.",
+      "source_name": "Portal Jurídic de Catalunya",
+      "source_url": "https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=13289",
+      "verified": true,
+      "origin": "curated"
+    },
+    {
+      "id": "esp-1931-obertura-corts-constituents",
+      "year": 1931,
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Obertura de les Corts Constituents de la Segona República",
+      "text": "s'obriren les Corts Constituents de la Segona República, que elaborarien la Constitució de 1931.",
+      "source_name": "Congreso de los Diputados",
+      "source_url": "https://www.congreso.es/cem/iirepesp",
+      "verified": true,
+      "origin": "curated"
+    },
+    {
+      "id": "eur-1789-presa-bastilla",
+      "year": 1789,
+      "scope": "EUR",
+      "territory": "França",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Presa de la Bastilla",
+      "text": "la població de París assaltà la Bastilla, un dels episodis fundacionals de la Revolució Francesa.",
+      "source_name": "Presidència de la República Francesa",
+      "source_url": "https://www.elysee.fr/en/french-presidency/bastille-day-14-july",
+      "verified": true,
+      "origin": "curated"
+    },
+    {
+      "id": "global-1965-mariner-4-mart",
+      "year": 1965,
+      "scope": "GLOBAL",
+      "territory": "Mart",
+      "category": "ciencia",
+      "importance": 5,
+      "featured": true,
+      "title": "Primer sobrevol de Mart",
+      "text": "la sonda Mariner 4 completà el primer sobrevol reeixit de Mart i obtingué les primeres imatges properes d'un altre planeta.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/mission/mariner-4/",
+      "verified": true,
+      "origin": "curated"
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": "Al juliol, pobres dels qui són al sol.",
+  "seasonal_note": "Al juliol continuen la sega, la collita de fruita dolça i les feines de reg a les hores menys caloroses.",
+  "seasonal_foods": {
+    "fruites": [
+      "figa",
+      "albercoc",
+      "nectarina",
+      "cirera"
+    ],
+    "hortalisses": [
+      "ceba",
+      "meló",
+      "síndria",
+      "albergínia",
+      "bleda"
+    ],
+    "pesca": [
+      "seitó",
+      "gamba",
+      "verat"
+    ],
+    "all": {
+      "fruites": [
+        "taronja blanca",
+        "poma Golden",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Conference",
+        "pruna",
+        "préssec",
+        "nectarina",
+        "albercoc",
+        "cirera",
+        "figa"
+      ],
+      "hortalisses": [
+        "ceba",
+        "mongeta verda",
+        "bleda",
+        "enciam",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "albergínia",
+        "carbassó",
+        "col",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "maire",
+        "seitó",
+        "gamba",
+        "sardina",
+        "sonso",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [
+    "Dia Internacional de les Persones No Binàries"
+  ],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-07-14T09:49:03+02:00"
+}

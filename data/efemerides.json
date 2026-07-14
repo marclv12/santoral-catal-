@@ -1,0 +1,420 @@
+{
+  "01-01": [
+    {
+      "id": "eur-1999-euro-naixement",
+      "year": 1999,
+      "scope": "EUR",
+      "territory": "Unió Europea",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Naixement de l'euro",
+      "text": "l'euro es convertí en la moneda oficial d'onze estats de la Unió Europea per a operacions comptables i financeres; els bitllets i les monedes arribarien el 2002.",
+      "source_name": "Banc Central Europeu",
+      "source_url": "https://www.ecb.europa.eu/euro/intro/html/index.ca.html",
+      "verified": true
+    }
+  ],
+  "01-26": [
+    {
+      "id": "cat-1641-batalla-montjuic",
+      "year": 1641,
+      "scope": "CAT",
+      "territory": "Principat de Catalunya",
+      "category": "guerra_i_diplomacia",
+      "importance": 5,
+      "featured": true,
+      "title": "Batalla de Montjuïc",
+      "text": "les forces catalanes i franceses derrotaren l'exèrcit de Felip IV a Montjuïc, en un episodi decisiu de la Guerra dels Segadors.",
+      "source_name": "Enciclopèdia Catalana",
+      "source_url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/batalla-de-montjuic",
+      "verified": true
+    }
+  ],
+  "03-19": [
+    {
+      "id": "esp-1812-constitucio-cadis",
+      "year": 1812,
+      "scope": "ESP",
+      "territory": "Cadis",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Constitució de Cadis",
+      "text": "les Corts de Cadis promulgaren la Constitució de 1812, una de les primeres constitucions liberals d'Europa.",
+      "source_name": "Congreso de los Diputados",
+      "source_url": "https://www.congreso.es/cem/const1812",
+      "verified": true
+    }
+  ],
+  "04-14": [
+    {
+      "id": "cat-1931-republica-catalana",
+      "year": 1931,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Proclamació de la República Catalana",
+      "text": "Francesc Macià proclamà a Barcelona la República Catalana com a estat integrant d'una federació de repúbliques ibèriques.",
+      "source_name": "Enciclopèdia Catalana",
+      "source_url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/francesc-macia-i-llussa",
+      "verified": true
+    },
+    {
+      "id": "esp-1931-segona-republica",
+      "year": 1931,
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Proclamació de la Segona República",
+      "text": "es proclamà la Segona República espanyola després de les eleccions municipals del 12 d'abril.",
+      "source_name": "Congreso de los Diputados",
+      "source_url": "https://www.congreso.es/cem/iirepesp",
+      "verified": true
+    }
+  ],
+  "04-23": [
+    {
+      "id": "cat-diada-sant-jordi",
+      "year": null,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "cultura",
+      "importance": 5,
+      "featured": true,
+      "title": "Diada de Sant Jordi",
+      "text": "Catalunya celebra la diada de Sant Jordi, vinculada al llibre, la rosa, la cultura i la llengua catalanes.",
+      "source_name": "Generalitat de Catalunya",
+      "source_url": "https://web.gencat.cat/ca/actualitat/detall/Diada-de-Sant-Jordi",
+      "verified": true
+    }
+  ],
+  "04-25": [
+    {
+      "id": "cat-1707-batalla-almansa",
+      "year": 1707,
+      "scope": "CAT",
+      "territory": "País Valencià",
+      "category": "guerra_i_diplomacia",
+      "importance": 5,
+      "featured": true,
+      "title": "Batalla d'Almansa",
+      "text": "la derrota aliada a Almansa obrí el camí a l'ocupació borbònica del Regne de València i a l'abolició dels Furs valencians.",
+      "source_name": "Acadèmia Valenciana de la Llengua",
+      "source_url": "https://www.avl.gva.es/",
+      "verified": true
+    }
+  ],
+  "05-09": [
+    {
+      "id": "eur-1950-declaracio-schuman",
+      "year": 1950,
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Declaració Schuman",
+      "text": "Robert Schuman presentà la proposta que posaria les bases de la Comunitat Europea del Carbó i de l'Acer i del procés d'integració europea.",
+      "source_name": "Unió Europea",
+      "source_url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_ca",
+      "verified": true
+    }
+  ],
+  "05-11": [
+    {
+      "id": "cat-1258-tractat-corbeil",
+      "year": 1258,
+      "scope": "CAT",
+      "territory": "Corona d'Aragó i França",
+      "category": "guerra_i_diplomacia",
+      "importance": 5,
+      "featured": true,
+      "title": "Tractat de Corbeil",
+      "text": "Jaume I i Lluís IX de França signaren el tractat de Corbeil, que redefiní drets dinàstics i fronteres entre la Corona d'Aragó i la monarquia francesa.",
+      "source_name": "Enciclopèdia Catalana",
+      "source_url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/tractat-de-corbeil",
+      "verified": true
+    }
+  ],
+  "06-20": [
+    {
+      "id": "cat-1705-pacte-genova",
+      "year": 1705,
+      "scope": "CAT",
+      "territory": "Principat de Catalunya",
+      "category": "guerra_i_diplomacia",
+      "importance": 5,
+      "featured": true,
+      "title": "Pacte de Gènova",
+      "text": "representants catalans austracistes i Anglaterra pactaren suport militar a l'arxiduc Carles i el compromís de preservar les constitucions catalanes.",
+      "source_name": "Museu d'Història de Catalunya",
+      "source_url": "https://1714.mhcat.cat/ca/ambit02/subambit02/cronologia.html",
+      "verified": true
+    }
+  ],
+  "07-14": [
+    {
+      "id": "cat-1983-policia-generalitat-mossos",
+      "year": 1983,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Creació de la Policia Autonòmica de la Generalitat",
+      "text": "el Parlament aprovà la Llei 19/1983, que creava la Policia Autonòmica de la Generalitat i establia el Cos de Mossos d'Esquadra com a nucli inicial.",
+      "source_name": "Portal Jurídic de Catalunya",
+      "source_url": "https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=13289",
+      "verified": true
+    },
+    {
+      "id": "esp-1931-obertura-corts-constituents",
+      "year": 1931,
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Obertura de les Corts Constituents de la Segona República",
+      "text": "s'obriren les Corts Constituents de la Segona República, que elaborarien la Constitució de 1931.",
+      "source_name": "Congreso de los Diputados",
+      "source_url": "https://www.congreso.es/cem/iirepesp",
+      "verified": true
+    },
+    {
+      "id": "eur-1789-presa-bastilla",
+      "year": 1789,
+      "scope": "EUR",
+      "territory": "França",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Presa de la Bastilla",
+      "text": "la població de París assaltà la Bastilla, un dels episodis fundacionals de la Revolució Francesa.",
+      "source_name": "Presidència de la República Francesa",
+      "source_url": "https://www.elysee.fr/en/french-presidency/bastille-day-14-july",
+      "verified": true
+    },
+    {
+      "id": "global-1965-mariner-4-mart",
+      "year": 1965,
+      "scope": "GLOBAL",
+      "territory": "Mart",
+      "category": "ciencia",
+      "importance": 5,
+      "featured": true,
+      "title": "Primer sobrevol de Mart",
+      "text": "la sonda Mariner 4 completà el primer sobrevol reeixit de Mart i obtingué les primeres imatges properes d'un altre planeta.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/mission/mariner-4/",
+      "verified": true
+    }
+  ],
+  "09-11": [
+    {
+      "id": "cat-1714-caiguda-barcelona",
+      "year": 1714,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "guerra_i_diplomacia",
+      "importance": 5,
+      "featured": true,
+      "title": "Caiguda de Barcelona",
+      "text": "Barcelona caigué després del setge de la Guerra de Successió; la data es convertí en la Diada Nacional de Catalunya.",
+      "source_name": "Generalitat de Catalunya",
+      "source_url": "https://web.gencat.cat/ca/actualitat/reportatges/diada-nacional-de-catalunya/",
+      "verified": true
+    },
+    {
+      "id": "global-2001-atemptats-eua",
+      "year": 2001,
+      "scope": "GLOBAL",
+      "territory": "Estats Units",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Atemptats de l'11 de setembre",
+      "text": "els atemptats contra Nova York i Washington causaren milers de morts i transformaren la política internacional i de seguretat del segle XXI.",
+      "source_name": "National September 11 Memorial & Museum",
+      "source_url": "https://www.911memorial.org/learn/resources/digital-exhibitions/september-11-2001",
+      "verified": true
+    }
+  ],
+  "09-12": [
+    {
+      "id": "cat-1213-batalla-muret",
+      "year": 1213,
+      "scope": "CAT",
+      "territory": "Occitània i Corona d'Aragó",
+      "category": "guerra_i_diplomacia",
+      "importance": 5,
+      "featured": true,
+      "title": "Batalla de Muret",
+      "text": "Pere el Catòlic morí a la batalla de Muret, una derrota que afeblí decisivament la projecció de la Corona d'Aragó a Occitània.",
+      "source_name": "Enciclopèdia Catalana",
+      "source_url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/batalla-de-muret",
+      "verified": true
+    }
+  ],
+  "10-09": [
+    {
+      "id": "cat-1238-entrada-jaume-i-valencia",
+      "year": 1238,
+      "scope": "CAT",
+      "territory": "País Valencià",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Entrada de Jaume I a València",
+      "text": "Jaume I entrà a la ciutat de València després de la capitulació, una fita central en la constitució del Regne de València.",
+      "source_name": "Generalitat Valenciana",
+      "source_url": "https://presidencia.gva.es/va/9-doctubre",
+      "verified": true
+    },
+    {
+      "id": "cat-1705-capitulacio-barcelona",
+      "year": 1705,
+      "scope": "CAT",
+      "territory": "Barcelona",
+      "category": "guerra_i_diplomacia",
+      "importance": 4,
+      "featured": false,
+      "title": "Capitulació borbònica de Barcelona",
+      "text": "Barcelona capitulà davant les forces aliades de l'arxiduc Carles durant la Guerra de Successió.",
+      "source_name": "Museu d'Història de Catalunya",
+      "source_url": "https://1714.mhcat.cat/ca/ambit02/subambit02/cronologia.html",
+      "verified": true
+    }
+  ],
+  "10-22": [
+    {
+      "id": "cat-1705-entrada-carles-iii-barcelona",
+      "year": 1705,
+      "scope": "CAT",
+      "territory": "Barcelona",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Entrada de Carles d'Àustria a Barcelona",
+      "text": "l'arxiduc Carles entrà a Barcelona després de la victòria aliada i fou reconegut pels seus partidaris com a rei Carles III.",
+      "source_name": "Enciclopèdia Catalana",
+      "source_url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/guerra-de-successio-hispanica",
+      "verified": true
+    }
+  ],
+  "10-27": [
+    {
+      "id": "cat-2017-declaracio-independencia",
+      "year": 2017,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Declaració d'independència de Catalunya",
+      "text": "el Parlament de Catalunya aprovà una resolució que declarava la constitució de la República catalana com a estat independent i sobirà.",
+      "source_name": "Parlament de Catalunya",
+      "source_url": "https://www.parlament.cat/document/actualitat/238626.pdf",
+      "verified": true
+    }
+  ],
+  "11-07": [
+    {
+      "id": "cat-1705-carles-iii-jura-constitucions",
+      "year": 1705,
+      "scope": "CAT",
+      "territory": "Principat de Catalunya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Carles III jura les constitucions catalanes",
+      "text": "l'arxiduc Carles d'Àustria jurà les constitucions catalanes a Barcelona i fou reconegut com a comte de Barcelona i rei pels austracistes.",
+      "source_name": "Memorial 1714",
+      "source_url": "https://www.memorial1714.cat/arxius/Corts-Generals-de-Catalunya.pdf",
+      "verified": true
+    },
+    {
+      "id": "eur-1917-revolucio-octubre",
+      "year": 1917,
+      "scope": "EUR",
+      "territory": "Rússia",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Revolució d'Octubre",
+      "text": "els bolxevics prengueren els principals centres de poder de Petrograd segons el calendari gregorià, iniciant un canvi polític de transcendència mundial.",
+      "source_name": "Encyclopaedia Britannica",
+      "source_url": "https://www.britannica.com/event/Russian-Revolution",
+      "verified": true
+    }
+  ],
+  "11-09": [
+    {
+      "id": "eur-1989-caiguda-mur-berlin",
+      "year": 1989,
+      "scope": "EUR",
+      "territory": "Alemanya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Caiguda del mur de Berlín",
+      "text": "l'obertura dels passos fronterers del mur de Berlín simbolitzà l'esfondrament dels règims comunistes de l'Europa central i oriental.",
+      "source_name": "Govern Federal d'Alemanya",
+      "source_url": "https://www.bundesregierung.de/breg-en/issues/german-unity/fall-of-the-wall-1989-441526",
+      "verified": true
+    }
+  ],
+  "12-06": [
+    {
+      "id": "esp-1978-constitucio",
+      "year": 1978,
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Referèndum de la Constitució espanyola",
+      "text": "la Constitució espanyola de 1978 fou ratificada en referèndum.",
+      "source_name": "Congreso de los Diputados",
+      "source_url": "https://www.congreso.es/constitucion/ficheros/c78/cons_espa.pdf",
+      "verified": true
+    }
+  ],
+  "12-10": [
+    {
+      "id": "global-1948-declaracio-drets-humans",
+      "year": 1948,
+      "scope": "GLOBAL",
+      "territory": "Nacions Unides",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Declaració Universal dels Drets Humans",
+      "text": "l'Assemblea General de les Nacions Unides aprovà la Declaració Universal dels Drets Humans a París.",
+      "source_name": "Nacions Unides",
+      "source_url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "verified": true
+    }
+  ],
+  "12-31": [
+    {
+      "id": "cat-1229-conquesta-mallorca",
+      "year": 1229,
+      "scope": "CAT",
+      "territory": "Illes Balears",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Conquesta de Mallorca",
+      "text": "les tropes de Jaume I entraren a Madina Mayurqa; Palma conserva la commemoració en la Festa de l'Estendard.",
+      "source_name": "Ajuntament de Palma",
+      "source_url": "https://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_fdes_d4_v1.jsp&codbusqueda=2224&language=ca&codResi=1&codMenuPN=1812&codMenuSN=1834&codMenu=2225&layout=contenedor1.jsp",
+      "verified": true
+    }
+  ]
+}
