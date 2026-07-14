@@ -1,0 +1,4 @@
+requests==2.32.4
+beautifulsoup4==4.13.4
+astral==3.2
+pytest==8.4.1
