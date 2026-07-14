@@ -9,14 +9,12 @@
   "sunset": "21:23",
   "moon_phase": "lluna nova",
   "saints": [
-    "Sant Camil de Lel·lis",
-    "Sant Francesc Solano",
-    "Santa Adela"
+    "Sant Camil de Lel·lis Prevere"
   ],
   "saint_source": {
-    "name": "Santoral Català — Llauradó",
-    "url": "https://www.llaurado.info/santoral/juliol/14/",
-    "status": "cached"
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/7/14",
+    "status": "live"
   },
   "efemerides": [
     {
@@ -162,5 +160,5 @@
     "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
     "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-07-14T09:49:03+02:00"
+  "generated_at": "2026-07-14T10:33:36+02:00"
 }
