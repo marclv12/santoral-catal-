@@ -1,0 +1,21 @@
+name: Comprova les fonts externes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"
+      timezone: "Europe/Madrid"
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Prova el santoral i Wikimedia
+        run: python src/check_sources.py
