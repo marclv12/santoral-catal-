@@ -1,0 +1,77 @@
+name: Actualitza la fitxa diària
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "Data de prova (AAAA-MM-DD); deixa-la buida per avui"
+        required: false
+        type: string
+  schedule:
+    - cron: "40 6 * * *"
+      timezone: "Europe/Madrid"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: bon-dia-pages
+  cancel-in-progress: false
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instal·la dependències
+        run: pip install -r requirements.txt
+
+      - name: Valida la base editorial
+        run: python src/validate_data.py
+
+      - name: Executa les proves
+        run: pytest -q
+
+      - name: Genera el web i l'arxiu del dia
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+        run: python src/generate.py
+
+      - name: Desa l'actualització al repositori
+        run: |
+          git config user.name "bon-dia-catalunya-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No hi ha canvis nous per desar."
+          else
+            git commit -m "Actualització diària $(date +%F)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Configura GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepara els fitxers del web
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+      - name: Publica el web
+        id: deployment
+        uses: actions/deploy-pages@v4

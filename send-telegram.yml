@@ -1,0 +1,44 @@
+name: Envia el bon dia a Telegram
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "Data de prova (AAAA-MM-DD); deixa-la buida per avui"
+        required: false
+        type: string
+  schedule:
+    - cron: "0 7 * * *"
+      timezone: "Europe/Madrid"
+
+concurrency:
+  group: bon-dia-telegram
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instal·la dependències
+        run: pip install -r requirements.txt
+
+      - name: Valida i regenera el missatge
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+        run: |
+          python src/validate_data.py
+          python src/generate.py
+
+      - name: Envia el missatge
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/send_telegram.py
