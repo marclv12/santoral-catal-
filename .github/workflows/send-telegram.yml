@@ -7,9 +7,12 @@ on:
         description: "Data de prova (AAAA-MM-DD); deixa-la buida per avui"
         required: false
         type: string
+
+  # 05.07 UTC = 07.07 a l'estiu
+  # 06.07 UTC = 07.07 a l'hivern
   schedule:
-    - cron: "0 7 * * *"
-      timezone: "Europe/Madrid"
+    - cron: "7 5 * * *"
+    - cron: "7 6 * * *"
 
 concurrency:
   group: bon-dia-telegram
@@ -19,18 +22,52 @@ jobs:
   send:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Comprova si correspon a les 07.07 de Catalunya
+        id: clock
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "execute=true" >> "$GITHUB_OUTPUT"
+            echo "Execució manual: s'enviarà el missatge."
+            exit 0
+          fi
+
+          OFFSET="$(TZ=Europe/Madrid date +%z)"
+          SCHEDULE="${{ github.event.schedule }}"
+
+          echo "Desplaçament horari de Madrid: $OFFSET"
+          echo "Cron que ha activat el workflow: $SCHEDULE"
+
+          if [[ "$OFFSET" == "+0200" && "$SCHEDULE" == "7 5 * * *" ]]; then
+            echo "execute=true" >> "$GITHUB_OUTPUT"
+            echo "Horari d'estiu: correspon a les 07.07."
+          elif [[ "$OFFSET" == "+0100" && "$SCHEDULE" == "7 6 * * *" ]]; then
+            echo "execute=true" >> "$GITHUB_OUTPUT"
+            echo "Horari d'hivern: correspon a les 07.07."
+          else
+            echo "execute=false" >> "$GITHUB_OUTPUT"
+            echo "Execució auxiliar descartada per evitar un enviament duplicat."
+          fi
+
+      - name: Descarrega el repositori
+        if: steps.clock.outputs.execute == 'true'
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        if: steps.clock.outputs.execute == 'true'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Instal·la dependències
+        if: steps.clock.outputs.execute == 'true'
         run: pip install -r requirements.txt
 
       - name: Valida i regenera el missatge
+        if: steps.clock.outputs.execute == 'true'
         env:
           TARGET_DATE: ${{ inputs.target_date }}
         run: |
@@ -38,6 +75,7 @@ jobs:
           python src/generate.py
 
       - name: Envia el missatge
+        if: steps.clock.outputs.execute == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
