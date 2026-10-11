@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-11",
+  "date_ca": "Diumenge, 11 de octubre de 2026",
+  "day_of_year": 284,
+  "days_remaining": 81,
+  "week": 41,
+  "location": "Barcelona",
+  "sunrise": "07:58",
+  "sunset": "19:16",
+  "moon_phase": "lluna nova",
+  "saints": [
+    "Santa Soledat Torres Acosta Verge"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/11",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": null,
+      "title": "1282 , Nicòtena , Regne de Nàpols : L'estol català dirigit per Pere de Queralt i d'Anglesola…",
+      "text": "1282 , Nicòtena , Regne de Nàpols : L'estol català dirigit per Pere de Queralt i d'Anglesola venç a l'estol angeví i les galeres de la República de Pisa al combat de Nicòtena , durant la Guerra de Sicília (1282-1289).",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1833,
+      "title": "Los Arcos ( Estella Oriental , Navarra ): Santos Ladron de Cegama fou capturat després que…",
+      "text": "Los Arcos ( Estella Oriental , Navarra ): Santos Ladron de Cegama fou capturat després que els carlins perdessin la batalla de Los Arcos durant la Primera Guerra Carlina.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1830,
+      "title": "Varsòvia ( Polònia ): Frédéric Chopin estrena al Teatre Nacional el seu Concert per a piano…",
+      "text": "Varsòvia ( Polònia ): Frédéric Chopin estrena al Teatre Nacional el seu Concert per a piano núm. 1 durant un dels concerts de comiat, abans de marxar de Polònia per sempre.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 1899,
+      "title": "Sud-àfrica : es declarà la guerra entre els bòers i l' Imperi Britànic",
+      "text": "Sud-àfrica : es declarà la guerra entre els bòers i l' Imperi Britànic.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "pera Llimonera",
+      "raïm",
+      "pera Williams",
+      "poma Reineta"
+    ],
+    "hortalisses": [
+      "albergínia",
+      "pèsols",
+      "porro",
+      "ceba",
+      "bleda"
+    ],
+    "pesca": [
+      "llenguado",
+      "verat",
+      "lluç"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-10-11T12:59:48+02:00"
+}
