@@ -1,77 +1,64 @@
 {
-  "date": "2026-10-11",
-  "date_ca": "Diumenge, 11 de octubre de 2026",
-  "day_of_year": 284,
-  "days_remaining": 81,
-  "week": 41,
+  "date": "2026-10-12",
+  "date_ca": "Dilluns, 12 de octubre de 2026",
+  "day_of_year": 285,
+  "days_remaining": 80,
+  "week": 42,
   "location": "Barcelona",
-  "sunrise": "07:58",
-  "sunset": "19:16",
+  "sunrise": "07:59",
+  "sunset": "19:15",
   "moon_phase": "lluna nova",
   "saints": [
-    "Santa Soledat Torres Acosta Verge"
+    "Mare de Déu del Pilar",
+    "Sant Teodor Estudita"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/11",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/12",
     "status": "live"
   },
   "efemerides": [
     {
       "year": null,
-      "title": "1282 , Nicòtena , Regne de Nàpols : L'estol català dirigit per Pere de Queralt i d'Anglesola…",
-      "text": "1282 , Nicòtena , Regne de Nàpols : L'estol català dirigit per Pere de Queralt i d'Anglesola venç a l'estol angeví i les galeres de la República de Pisa al combat de Nicòtena , durant la Guerra de Sicília (1282-1289).",
+      "title": "1492 , San Salvador, actualment Watling , les Bahames : Colom arriba a aquesta illa : els…",
+      "text": "1492 , San Salvador, actualment Watling , les Bahames : Colom arriba a aquesta illa : els espanyols descobreixen Amèrica.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 10
     },
     {
-      "year": 1833,
-      "title": "Los Arcos ( Estella Oriental , Navarra ): Santos Ladron de Cegama fou capturat després que…",
-      "text": "Los Arcos ( Estella Oriental , Navarra ): Santos Ladron de Cegama fou capturat després que els carlins perdessin la batalla de Los Arcos durant la Primera Guerra Carlina.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 10
-    },
-    {
-      "year": 1830,
-      "title": "Varsòvia ( Polònia ): Frédéric Chopin estrena al Teatre Nacional el seu Concert per a piano…",
-      "text": "Varsòvia ( Polònia ): Frédéric Chopin estrena al Teatre Nacional el seu Concert per a piano núm. 1 durant un dels concerts de comiat, abans de marxar de Polònia per sempre.",
+      "year": null,
+      "title": "1505 , Blois , Regne de França : se signa el Tractat de Blois pel qual s'acorda el casament…",
+      "text": "1505 , Blois , Regne de França : se signa el Tractat de Blois pel qual s'acorda el casament entre Ferran el Catòlic i Germana de Foix.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 2,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 4
-    },
-    {
-      "year": 1899,
-      "title": "Sud-àfrica : es declarà la guerra entre els bòers i l' Imperi Britànic",
-      "text": "Sud-àfrica : es declarà la guerra entre els bòers i l' Imperi Britànic.",
-      "scope": "GLOBAL",
-      "territory": "Món",
-      "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/11_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 10
+    },
+    {
+      "year": null,
+      "title": "1968 , Guinea Equatorial , Àfrica : la dictadura franquista va organitzar un referèndum per…",
+      "text": "1968 , Guinea Equatorial , Àfrica : la dictadura franquista va organitzar un referèndum per la independència. Es va proclamar la independència de Guinea.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 15
     }
   ],
   "scope_order": [
@@ -84,22 +71,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "pera Llimonera",
+      "poma Gala",
       "raïm",
-      "pera Williams",
-      "poma Reineta"
+      "pera Blanquilla",
+      "préssec"
     ],
     "hortalisses": [
-      "albergínia",
-      "pèsols",
-      "porro",
+      "mongeta verda",
       "ceba",
-      "bleda"
+      "tomàquet",
+      "bròquil",
+      "pastanaga"
     ],
     "pesca": [
-      "llenguado",
-      "verat",
-      "lluç"
+      "bonítol",
+      "escórpora",
+      "calamar"
     ],
     "all": {
       "fruites": [
@@ -164,9 +151,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Fuster",
-    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
-    "source": "Diccionari per a ociosos"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-10-11T12:59:48+02:00"
+  "generated_at": "2026-10-12T14:24:21+02:00"
 }
