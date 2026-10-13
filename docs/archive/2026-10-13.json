@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-13",
+  "date_ca": "Dimarts, 13 de octubre de 2026",
+  "day_of_year": 286,
+  "days_remaining": 79,
+  "week": 42,
+  "location": "Barcelona",
+  "sunrise": "08:01",
+  "sunset": "19:13",
+  "moon_phase": "creixent",
+  "saints": [
+    "Sant Teòfil Bisbe"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/13",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2010,
+      "title": "Andorra : El govern d'Andorra aprova el Nomenclàtor d'Andorra que fixa la «forma oficial…",
+      "text": "Andorra : El govern d'Andorra aprova el Nomenclàtor d'Andorra que fixa la «forma oficial dels topònims del Principat d'Andorra».",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1917,
+      "title": "Fátima (Portugal): davant 70.000 testimonis, els nens Jacinta i Francisco Marto i Lúcia dos…",
+      "text": "Fátima (Portugal): davant 70.000 testimonis, els nens Jacinta i Francisco Marto i Lúcia dos Santos diuen que parlen amb la Mare de Déu; els testimonis no veuen Maria però sí l'anomenat \"miracle del sol\".",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 1213,
+      "title": "Montenaken , Sint-Truiden : La batalla de Steps entre l'exèrcit del ducat de Brabant i la…",
+      "text": "Montenaken , Sint-Truiden : La batalla de Steps entre l'exèrcit del ducat de Brabant i la coalició de Lieja , Loon i les milícies de Lieja i Huy.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "poma Gala",
+      "pomes vermelles",
+      "nectarina",
+      "poma Reineta"
+    ],
+    "hortalisses": [
+      "tomàquet",
+      "albergínia",
+      "api",
+      "carbassó",
+      "porro"
+    ],
+    "pesca": [
+      "sardina",
+      "sípia",
+      "lluç"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
+  },
+  "generated_at": "2026-10-13T14:08:19+02:00"
+}
