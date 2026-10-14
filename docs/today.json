@@ -1,63 +1,77 @@
 {
-  "date": "2026-10-13",
-  "date_ca": "Dimarts, 13 de octubre de 2026",
-  "day_of_year": 286,
-  "days_remaining": 79,
+  "date": "2026-10-14",
+  "date_ca": "Dimecres, 14 de octubre de 2026",
+  "day_of_year": 287,
+  "days_remaining": 78,
   "week": 42,
   "location": "Barcelona",
-  "sunrise": "08:01",
-  "sunset": "19:13",
+  "sunrise": "08:02",
+  "sunset": "19:11",
   "moon_phase": "creixent",
   "saints": [
-    "Sant Teòfil Bisbe"
+    "Sant Calixt I Papa i màrtir"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/13",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/14",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 2010,
-      "title": "Andorra : El govern d'Andorra aprova el Nomenclàtor d'Andorra que fixa la «forma oficial…",
-      "text": "Andorra : El govern d'Andorra aprova el Nomenclàtor d'Andorra que fixa la «forma oficial dels topònims del Principat d'Andorra».",
+      "year": 1915,
+      "title": "Barcelona : un decret de la Mancomunitat de Catalunya crea l' Escola Superior de…",
+      "text": "Barcelona : un decret de la Mancomunitat de Catalunya crea l' Escola Superior de Bibliotecàries per a la formació de personal per a biblioteques; començarà a funcionar el 22 de novembre.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/13_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 7
     },
     {
-      "year": 1917,
-      "title": "Fátima (Portugal): davant 70.000 testimonis, els nens Jacinta i Francisco Marto i Lúcia dos…",
-      "text": "Fátima (Portugal): davant 70.000 testimonis, els nens Jacinta i Francisco Marto i Lúcia dos Santos diuen que parlen amb la Mare de Déu; els testimonis no veuen Maria però sí l'anomenat \"miracle del sol\".",
+      "year": 1469,
+      "title": "Matrimoni de Ferran d'Aragó amb Isabel de Castella , futurs Reis Catòlics",
+      "text": "Matrimoni de Ferran d'Aragó amb Isabel de Castella , futurs Reis Catòlics.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1806,
+      "title": "Jena ( Turíngia , Alemanya ): l'exèrcit de la Primera República Francesa obté una victòria…",
+      "text": "Jena ( Turíngia , Alemanya ): l'exèrcit de la Primera República Francesa obté una victòria decisiva en la batalla de Jena contra l'exèrcit prussià en el marc de la guerra de la Quarta Coalició . Auerstädt ( Prússia , actualment a Turíngia , Alemanya : l'exèrcit prussià surt derrotat en la batalla d'Auerstädt contra l'exèrcit de Napoleó a la guerra de la Quarta Aliança.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 2,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/13_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 4
+      "score": 14
     },
     {
-      "year": 1213,
-      "title": "Montenaken , Sint-Truiden : La batalla de Steps entre l'exèrcit del ducat de Brabant i la…",
-      "text": "Montenaken , Sint-Truiden : La batalla de Steps entre l'exèrcit del ducat de Brabant i la coalició de Lieja , Loon i les milícies de Lieja i Huy.",
+      "year": 1066,
+      "title": "Regne d'Anglaterraː Batalla de Hastings . Comença la conquesta normanda d'Anglaterra",
+      "text": "Regne d'Anglaterraː Batalla de Hastings . Comença la conquesta normanda d'Anglaterra.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/13_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 9
     }
   ],
   "scope_order": [
@@ -70,22 +84,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "poma Gala",
-      "pomes vermelles",
+      "figa",
+      "pera Conference",
       "nectarina",
-      "poma Reineta"
+      "taronja navel"
     ],
     "hortalisses": [
-      "tomàquet",
-      "albergínia",
-      "api",
-      "carbassó",
-      "porro"
+      "ceba",
+      "meló",
+      "bleda",
+      "cogombre",
+      "enciam"
     ],
     "pesca": [
-      "sardina",
       "sípia",
-      "lluç"
+      "llenguado",
+      "escórpora"
     ],
     "all": {
       "fruites": [
@@ -150,9 +164,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-10-13T14:08:19+02:00"
+  "generated_at": "2026-10-14T11:41:58+02:00"
 }

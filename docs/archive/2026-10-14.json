@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-14",
+  "date_ca": "Dimecres, 14 de octubre de 2026",
+  "day_of_year": 287,
+  "days_remaining": 78,
+  "week": 42,
+  "location": "Barcelona",
+  "sunrise": "08:02",
+  "sunset": "19:11",
+  "moon_phase": "creixent",
+  "saints": [
+    "Sant Calixt I Papa i màrtir"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/14",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1915,
+      "title": "Barcelona : un decret de la Mancomunitat de Catalunya crea l' Escola Superior de…",
+      "text": "Barcelona : un decret de la Mancomunitat de Catalunya crea l' Escola Superior de Bibliotecàries per a la formació de personal per a biblioteques; començarà a funcionar el 22 de novembre.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1469,
+      "title": "Matrimoni de Ferran d'Aragó amb Isabel de Castella , futurs Reis Catòlics",
+      "text": "Matrimoni de Ferran d'Aragó amb Isabel de Castella , futurs Reis Catòlics.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1806,
+      "title": "Jena ( Turíngia , Alemanya ): l'exèrcit de la Primera República Francesa obté una victòria…",
+      "text": "Jena ( Turíngia , Alemanya ): l'exèrcit de la Primera República Francesa obté una victòria decisiva en la batalla de Jena contra l'exèrcit prussià en el marc de la guerra de la Quarta Coalició . Auerstädt ( Prússia , actualment a Turíngia , Alemanya : l'exèrcit prussià surt derrotat en la batalla d'Auerstädt contra l'exèrcit de Napoleó a la guerra de la Quarta Aliança.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 14
+    },
+    {
+      "year": 1066,
+      "title": "Regne d'Anglaterraː Batalla de Hastings . Comença la conquesta normanda d'Anglaterra",
+      "text": "Regne d'Anglaterraː Batalla de Hastings . Comença la conquesta normanda d'Anglaterra.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 9
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "figa",
+      "pera Conference",
+      "nectarina",
+      "taronja navel"
+    ],
+    "hortalisses": [
+      "ceba",
+      "meló",
+      "bleda",
+      "cogombre",
+      "enciam"
+    ],
+    "pesca": [
+      "sípia",
+      "llenguado",
+      "escórpora"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-10-14T11:41:58+02:00"
+}
