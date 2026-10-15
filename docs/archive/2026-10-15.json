@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-15",
+  "date_ca": "Dijous, 15 de octubre de 2026",
+  "day_of_year": 288,
+  "days_remaining": 77,
+  "week": 42,
+  "location": "Barcelona",
+  "sunrise": "08:03",
+  "sunset": "19:10",
+  "moon_phase": "creixent",
+  "saints": [
+    "Santa Teresa de Jesús Verge i doctora de l'Església"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/15",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1940,
+      "title": "Barcelona : després d'un judici militar sense garanties processals, afusellen Lluís Companys…",
+      "text": "Barcelona : després d'un judici militar sense garanties processals, afusellen Lluís Companys , president de la Generalitat de Catalunya , al castell de Montjuïc.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1522,
+      "title": "Valladolid : l'emperador Carles V tramet una reial cèdula amb la que confereix a Hernán…",
+      "text": "Valladolid : l'emperador Carles V tramet una reial cèdula amb la que confereix a Hernán Cortés el títol de gobernador i capitá general de Nova Espanya (actual Mèxic ).",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    },
+    {
+      "year": 1990,
+      "title": "Suècia : Mikhaïl Gorbatxov és guardonat amb el premi Nobel de la pau pels seus intents per a…",
+      "text": "Suècia : Mikhaïl Gorbatxov és guardonat amb el premi Nobel de la pau pels seus intents per a fer disminuir les tensions de la guerra freda i l'obertura de la Unió Soviètica.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1838,
+      "title": "Xèrica ( Alt Palància ): els carlins abandonen el setge del poble en la batalla de Xèrica en…",
+      "text": "Xèrica ( Alt Palància ): els carlins abandonen el setge del poble en la batalla de Xèrica en el front oriental de la Primera Guerra Carlina.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "pera Ercolini",
+      "poma Golden",
+      "satsuma",
+      "figa"
+    ],
+    "hortalisses": [
+      "coliflor",
+      "all tendre",
+      "pastanaga",
+      "cogombre",
+      "api"
+    ],
+    "pesca": [
+      "sardina",
+      "sípia",
+      "lluç"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-10-15T11:23:22+02:00"
+}

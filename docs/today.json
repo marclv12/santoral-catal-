@@ -1,77 +1,77 @@
 {
-  "date": "2026-10-14",
-  "date_ca": "Dimecres, 14 de octubre de 2026",
-  "day_of_year": 287,
-  "days_remaining": 78,
+  "date": "2026-10-15",
+  "date_ca": "Dijous, 15 de octubre de 2026",
+  "day_of_year": 288,
+  "days_remaining": 77,
   "week": 42,
   "location": "Barcelona",
-  "sunrise": "08:02",
-  "sunset": "19:11",
+  "sunrise": "08:03",
+  "sunset": "19:10",
   "moon_phase": "creixent",
   "saints": [
-    "Sant Calixt I Papa i màrtir"
+    "Santa Teresa de Jesús Verge i doctora de l'Església"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/14",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/15",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1915,
-      "title": "Barcelona : un decret de la Mancomunitat de Catalunya crea l' Escola Superior de…",
-      "text": "Barcelona : un decret de la Mancomunitat de Catalunya crea l' Escola Superior de Bibliotecàries per a la formació de personal per a biblioteques; començarà a funcionar el 22 de novembre.",
+      "year": 1940,
+      "title": "Barcelona : després d'un judici militar sense garanties processals, afusellen Lluís Companys…",
+      "text": "Barcelona : després d'un judici militar sense garanties processals, afusellen Lluís Companys , president de la Generalitat de Catalunya , al castell de Montjuïc.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 7
     },
     {
-      "year": 1469,
-      "title": "Matrimoni de Ferran d'Aragó amb Isabel de Castella , futurs Reis Catòlics",
-      "text": "Matrimoni de Ferran d'Aragó amb Isabel de Castella , futurs Reis Catòlics.",
+      "year": 1522,
+      "title": "Valladolid : l'emperador Carles V tramet una reial cèdula amb la que confereix a Hernán…",
+      "text": "Valladolid : l'emperador Carles V tramet una reial cèdula amb la que confereix a Hernán Cortés el títol de gobernador i capitá general de Nova Espanya (actual Mèxic ).",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 13
     },
     {
-      "year": 1806,
-      "title": "Jena ( Turíngia , Alemanya ): l'exèrcit de la Primera República Francesa obté una victòria…",
-      "text": "Jena ( Turíngia , Alemanya ): l'exèrcit de la Primera República Francesa obté una victòria decisiva en la batalla de Jena contra l'exèrcit prussià en el marc de la guerra de la Quarta Coalició . Auerstädt ( Prússia , actualment a Turíngia , Alemanya : l'exèrcit prussià surt derrotat en la batalla d'Auerstädt contra l'exèrcit de Napoleó a la guerra de la Quarta Aliança.",
+      "year": 1990,
+      "title": "Suècia : Mikhaïl Gorbatxov és guardonat amb el premi Nobel de la pau pels seus intents per a…",
+      "text": "Suècia : Mikhaïl Gorbatxov és guardonat amb el premi Nobel de la pau pels seus intents per a fer disminuir les tensions de la guerra freda i l'obertura de la Unió Soviètica.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 14
+      "score": 10
     },
     {
-      "year": 1066,
-      "title": "Regne d'Anglaterraː Batalla de Hastings . Comença la conquesta normanda d'Anglaterra",
-      "text": "Regne d'Anglaterraː Batalla de Hastings . Comença la conquesta normanda d'Anglaterra.",
+      "year": 1838,
+      "title": "Xèrica ( Alt Palància ): els carlins abandonen el setge del poble en la batalla de Xèrica en…",
+      "text": "Xèrica ( Alt Palància ): els carlins abandonen el setge del poble en la batalla de Xèrica en el front oriental de la Primera Guerra Carlina.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/14_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 9
+      "score": 13
     }
   ],
   "scope_order": [
@@ -84,22 +84,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "figa",
-      "pera Conference",
-      "nectarina",
-      "taronja navel"
+      "pera Ercolini",
+      "poma Golden",
+      "satsuma",
+      "figa"
     ],
     "hortalisses": [
-      "ceba",
-      "meló",
-      "bleda",
+      "coliflor",
+      "all tendre",
+      "pastanaga",
       "cogombre",
-      "enciam"
+      "api"
     ],
     "pesca": [
+      "sardina",
       "sípia",
-      "llenguado",
-      "escórpora"
+      "lluç"
     ],
     "all": {
       "fruites": [
@@ -164,9 +164,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Fuster",
-    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
-    "source": "Diccionari per a ociosos"
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
   },
-  "generated_at": "2026-10-14T11:41:58+02:00"
+  "generated_at": "2026-10-15T11:23:22+02:00"
 }
