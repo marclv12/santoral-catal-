@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-16",
+  "date_ca": "Divendres, 16 de octubre de 2026",
+  "day_of_year": 289,
+  "days_remaining": 76,
+  "week": 42,
+  "location": "Barcelona",
+  "sunrise": "08:04",
+  "sunset": "19:08",
+  "moon_phase": "creixent",
+  "saints": [
+    "Santa Margarida Maria Alacoque Verge",
+    "Santa Hedvig Religiosa"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/16",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2017,
+      "title": "Jordi Cuixart i Jordi Sànchez són empresonats a Soto del Real de manera preventiva per l'…",
+      "text": "Jordi Cuixart i Jordi Sànchez són empresonats a Soto del Real de manera preventiva per l' Audiencia Nacional Espanyola a petició del fiscal general de l'Estat espanyol.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1995,
+      "title": "Primer judici a l'Estat espanyol amb jurat popular que es va celebrar a Palma",
+      "text": "Primer judici a l'Estat espanyol amb jurat popular que es va celebrar a Palma.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1978,
+      "title": "el Vaticà ( Roma ): el conclave proclama papa Karol Woytila , que regnarà com a Joan Pau II",
+      "text": "el Vaticà ( Roma ): el conclave proclama papa Karol Woytila , que regnarà com a Joan Pau II.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1817,
+      "title": "Es descobreix la tomba de Seti I a la Vall dels Reis a Egipte",
+      "text": "Es descobreix la tomba de Seti I a la Vall dels Reis a Egipte.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "poma Gala",
+      "satsuma",
+      "pera Williams",
+      "pera Blanquilla"
+    ],
+    "hortalisses": [
+      "cogombre",
+      "escarola",
+      "pastanaga",
+      "ceba",
+      "col"
+    ],
+    "pesca": [
+      "escórpora",
+      "verat",
+      "sardina"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-10-16T11:15:55+02:00"
+}
