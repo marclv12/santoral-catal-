@@ -1,78 +1,77 @@
 {
-  "date": "2026-10-16",
-  "date_ca": "Divendres, 16 de octubre de 2026",
-  "day_of_year": 289,
-  "days_remaining": 76,
+  "date": "2026-10-17",
+  "date_ca": "Dissabte, 17 de octubre de 2026",
+  "day_of_year": 290,
+  "days_remaining": 75,
   "week": 42,
   "location": "Barcelona",
-  "sunrise": "08:04",
-  "sunset": "19:08",
-  "moon_phase": "creixent",
+  "sunrise": "08:05",
+  "sunset": "19:07",
+  "moon_phase": "quart creixent",
   "saints": [
-    "Santa Margarida Maria Alacoque Verge",
-    "Santa Hedvig Religiosa"
+    "Sant Ignasi d'Antioquia Bisbe i màrtir"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/16",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/17",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 2017,
-      "title": "Jordi Cuixart i Jordi Sànchez són empresonats a Soto del Real de manera preventiva per l'…",
-      "text": "Jordi Cuixart i Jordi Sànchez són empresonats a Soto del Real de manera preventiva per l' Audiencia Nacional Espanyola a petició del fiscal general de l'Estat espanyol.",
+      "year": 2004,
+      "title": "Phillip Island ( estat de Victoria , Austràlia ): Dani Pedrosa s'hi proclama campió del món…",
+      "text": "Phillip Island ( estat de Victoria , Austràlia ): Dani Pedrosa s'hi proclama campió del món de motociclisme en 250 cc.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 10
     },
     {
-      "year": 1995,
-      "title": "Primer judici a l'Estat espanyol amb jurat popular que es va celebrar a Palma",
-      "text": "Primer judici a l'Estat espanyol amb jurat popular que es va celebrar a Palma.",
+      "year": 1838,
+      "title": "Casp ( Baix Aragó-Casp ): els carlins aixequen el setge de Casp que havien iniciat el 14…",
+      "text": "Casp ( Baix Aragó-Casp ): els carlins aixequen el setge de Casp que havien iniciat el 14 d'octubre sense aconseguir prendre el poble durant la Primera Guerra Carlina.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 10
     },
     {
-      "year": 1978,
-      "title": "el Vaticà ( Roma ): el conclave proclama papa Karol Woytila , que regnarà com a Joan Pau II",
-      "text": "el Vaticà ( Roma ): el conclave proclama papa Karol Woytila , que regnarà com a Joan Pau II.",
+      "year": 1797,
+      "title": "Campoformido ( Itàlia ): França i el Sacre Imperi Romanogermànic van firmar el Tractat de…",
+      "text": "Campoformido ( Itàlia ): França i el Sacre Imperi Romanogermànic van firmar el Tractat de Campo Formio que posà fi a la guerra de la Primera Coalició . En aquesta França va obtenir territoris de la Península Itàlica i els Països Baixos austríacs (Bèlgica).",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 13
     },
     {
-      "year": 1817,
-      "title": "Es descobreix la tomba de Seti I a la Vall dels Reis a Egipte",
-      "text": "Es descobreix la tomba de Seti I a la Vall dels Reis a Egipte.",
+      "year": 2004,
+      "title": "Belarús : amb acusacions de frau per part de l'oposició, s'hi celebra el referèndum que…",
+      "text": "Belarús : amb acusacions de frau per part de l'oposició, s'hi celebra el referèndum que modificarà la constitució per permetre que el president Lukaixenko es pugui presentar a un tercer mandat.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 13
     }
   ],
   "scope_order": [
@@ -85,22 +84,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "poma Gala",
-      "satsuma",
+      "poma Golden",
+      "pera Blanquilla",
       "pera Williams",
-      "pera Blanquilla"
+      "pomes vermelles"
     ],
     "hortalisses": [
-      "cogombre",
-      "escarola",
+      "bròquil",
       "pastanaga",
       "ceba",
-      "col"
+      "tomàquet",
+      "cogombre"
     ],
     "pesca": [
-      "escórpora",
-      "verat",
-      "sardina"
+      "llenguado",
+      "calamar",
+      "bonítol"
     ],
     "all": {
       "fruites": [
@@ -169,5 +168,5 @@
     "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
     "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-10-16T11:15:55+02:00"
+  "generated_at": "2026-10-17T10:46:50+02:00"
 }
