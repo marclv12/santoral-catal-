@@ -1,77 +1,63 @@
 {
-  "date": "2026-10-17",
-  "date_ca": "Dissabte, 17 de octubre de 2026",
-  "day_of_year": 290,
-  "days_remaining": 75,
+  "date": "2026-10-18",
+  "date_ca": "Diumenge, 18 de octubre de 2026",
+  "day_of_year": 291,
+  "days_remaining": 74,
   "week": 42,
   "location": "Barcelona",
-  "sunrise": "08:05",
-  "sunset": "19:07",
+  "sunrise": "08:06",
+  "sunset": "19:05",
   "moon_phase": "quart creixent",
   "saints": [
-    "Sant Ignasi d'Antioquia Bisbe i màrtir"
+    "Sant Lluc Evangelista"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/17",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/18",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 2004,
-      "title": "Phillip Island ( estat de Victoria , Austràlia ): Dani Pedrosa s'hi proclama campió del món…",
-      "text": "Phillip Island ( estat de Victoria , Austràlia ): Dani Pedrosa s'hi proclama campió del món de motociclisme en 250 cc.",
+      "year": 2020,
+      "title": "Barcelona : Protesta de la comunitat armènia contra la agressió turca-azerbaidjanesa davant…",
+      "text": "Barcelona : Protesta de la comunitat armènia contra la agressió turca-azerbaidjanesa davant de la delegació del Govern d'Espanya.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/18_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 7
     },
     {
-      "year": 1838,
-      "title": "Casp ( Baix Aragó-Casp ): els carlins aixequen el setge de Casp que havien iniciat el 14…",
-      "text": "Casp ( Baix Aragó-Casp ): els carlins aixequen el setge de Casp que havien iniciat el 14 d'octubre sense aconseguir prendre el poble durant la Primera Guerra Carlina.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 10
-    },
-    {
-      "year": 1797,
-      "title": "Campoformido ( Itàlia ): França i el Sacre Imperi Romanogermànic van firmar el Tractat de…",
-      "text": "Campoformido ( Itàlia ): França i el Sacre Imperi Romanogermànic van firmar el Tractat de Campo Formio que posà fi a la guerra de la Primera Coalició . En aquesta França va obtenir territoris de la Península Itàlica i els Països Baixos austríacs (Bèlgica).",
+      "year": 1748,
+      "title": "Aquisgrà ( Sacre Imperi Romanogermànic ): signatura del Tractat d'Aquisgrà que representa el…",
+      "text": "Aquisgrà ( Sacre Imperi Romanogermànic ): signatura del Tractat d'Aquisgrà que representa el final de la Guerra de Successió Austríaca.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/18_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 16
     },
     {
-      "year": 2004,
-      "title": "Belarús : amb acusacions de frau per part de l'oposició, s'hi celebra el referèndum que…",
-      "text": "Belarús : amb acusacions de frau per part de l'oposició, s'hi celebra el referèndum que modificarà la constitució per permetre que el president Lukaixenko es pugui presentar a un tercer mandat.",
+      "year": null,
+      "title": "2020 Conflicte de l'Alt Karabakh de 2020 : Armènia i Azerbaidjan acorden, de nou, un alto el…",
+      "text": "2020 Conflicte de l'Alt Karabakh de 2020 : Armènia i Azerbaidjan acorden, de nou, un alto el foc per raons humanitàries. Iran : Aixecament de l'embargament d'armes de 13 anys al país per part de les Nacions Unides ( resolució 2231 ). Xipre del Nord : a la segona volta de les eleccions presidencials guanya, per sorpresa, el candidat del partit de dreta nacionalista turca, Ersin Tatar.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/17_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/18_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 11
     }
   ],
   "scope_order": [
@@ -84,22 +70,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "poma Golden",
-      "pera Blanquilla",
+      "raïm",
+      "satsuma",
       "pera Williams",
-      "pomes vermelles"
+      "pera Ercolini"
     ],
     "hortalisses": [
-      "bròquil",
-      "pastanaga",
-      "ceba",
-      "tomàquet",
+      "espinacs",
+      "pebrot",
+      "enciam",
+      "albergínia",
       "cogombre"
     ],
     "pesca": [
-      "llenguado",
-      "calamar",
-      "bonítol"
+      "bonítol",
+      "sípia",
+      "calamar"
     ],
     "all": {
       "fruites": [
@@ -168,5 +154,5 @@
     "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
     "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-10-17T10:46:50+02:00"
+  "generated_at": "2026-10-18T11:02:58+02:00"
 }
