@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-19",
-  "date_ca": "Dilluns, 19 de octubre de 2026",
-  "day_of_year": 292,
-  "days_remaining": 73,
+  "date": "2026-10-20",
+  "date_ca": "Dimarts, 20 de octubre de 2026",
+  "day_of_year": 293,
+  "days_remaining": 72,
   "week": 43,
   "location": "Barcelona",
-  "sunrise": "08:07",
-  "sunset": "19:04",
+  "sunrise": "08:08",
+  "sunset": "19:02",
   "moon_phase": "quart creixent",
   "saints": [
-    "Sant Pere d'Alcàntara Prevere",
-    "Sant Pau de la Creu Prevere"
+    "Santa Irene Verge i màrtir",
+    "Sant Accas Bisbe"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/19",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/20",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1810,
-      "title": "Batalla de Sant Quintí , a Cardona ( Bages ) dins la Guerra del Francès",
-      "text": "Batalla de Sant Quintí , a Cardona ( Bages ) dins la Guerra del Francès.",
+      "year": 1979,
+      "title": "inauguració de la Masia , residència dels joves de les categories inferiors del FC Barcelona…",
+      "text": "inauguració de la Masia , residència dels joves de les categories inferiors del FC Barcelona fins a l'any 2011, en què fou substituïda per la nova Masia, a la Ciutat Esportiva Joan Gamper.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 7
     },
     {
-      "year": 1469,
-      "title": "Valladolid (Castella): matrimoni del futur rei Ferran II d'Aragó amb Isabel I de Castella ,…",
-      "text": "Valladolid (Castella): matrimoni del futur rei Ferran II d'Aragó amb Isabel I de Castella , que portarà a la unió personal de les dues corones.",
+      "year": null,
+      "title": "2011 , País Basc : ETA anuncia que atura definitivament l'activitat armada. Aquest anunci es…",
+      "text": "2011 , País Basc : ETA anuncia que atura definitivament l'activitat armada. Aquest anunci es fa 3 dies després de la celebració d'una Conferència Internacional de Pau de Sant Sebastià.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 7
     },
     {
-      "year": 1386,
-      "title": "Heidelberg ( Sacre Imperi ): obre la Universitat de Heidelberg , primera de l'Imperi…",
-      "text": "Heidelberg ( Sacre Imperi ): obre la Universitat de Heidelberg , primera de l'Imperi Romanogermànic.",
+      "year": null,
+      "title": "1944 , Albània : s'estableix el primer govern provisional després de l'ocupació nazi",
+      "text": "1944 , Albània : s'estableix el primer govern provisional després de l'ocupació nazi.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 13
     },
     {
-      "year": 1781,
-      "title": "Yorktown (Virgínia , EUA ): Els americans obtenen la victòria en la batalla de Yorktown…",
-      "text": "Yorktown (Virgínia , EUA ): Els americans obtenen la victòria en la batalla de Yorktown (1781) que fou decisiva per la rendició de la Gran Bretanya en la Guerra d'Independència dels Estats Units.",
+      "year": null,
+      "title": "1465 , Montenaken , Principat de Lieja ): Batalla de Montenaken entre les forces de Felip…",
+      "text": "1465 , Montenaken , Principat de Lieja ): Batalla de Montenaken entre les forces de Felip III de Borgonya i les milícies liegeses.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 16
+      "score": 7
     }
   ],
   "scope_order": [
@@ -85,22 +85,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "pomes vermelles",
-      "pera Conference",
-      "pera Williams",
+      "figa",
+      "raïm",
+      "poma Reineta",
       "clementina"
     ],
     "hortalisses": [
-      "bleda",
-      "escarola",
+      "ceba",
       "coliflor",
+      "carbassó",
       "bròquil",
-      "porro"
+      "tomàquet"
     ],
     "pesca": [
-      "llenguado",
-      "sípia",
-      "escórpora"
+      "lluç",
+      "verat",
+      "calamar"
     ],
     "all": {
       "fruites": [
@@ -165,9 +165,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Fuster",
-    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
-    "source": "Diccionari per a ociosos"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-10-19T12:15:29+02:00"
+  "generated_at": "2026-10-20T11:36:36+02:00"
 }
