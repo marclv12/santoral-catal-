@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-20",
-  "date_ca": "Dimarts, 20 de octubre de 2026",
-  "day_of_year": 293,
-  "days_remaining": 72,
+  "date": "2026-10-21",
+  "date_ca": "Dimecres, 21 de octubre de 2026",
+  "day_of_year": 294,
+  "days_remaining": 71,
   "week": 43,
   "location": "Barcelona",
-  "sunrise": "08:08",
-  "sunset": "19:02",
-  "moon_phase": "quart creixent",
+  "sunrise": "08:10",
+  "sunset": "19:01",
+  "moon_phase": "gibosa creixent",
   "saints": [
-    "Santa Irene Verge i màrtir",
-    "Sant Accas Bisbe"
+    "Sant Hilarió Abat",
+    "Santa Úrsula Màrtir"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/20",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/21",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1979,
-      "title": "inauguració de la Masia , residència dels joves de les categories inferiors del FC Barcelona…",
-      "text": "inauguració de la Masia , residència dels joves de les categories inferiors del FC Barcelona fins a l'any 2011, en què fou substituïda per la nova Masia, a la Ciutat Esportiva Joan Gamper.",
+      "year": 1972,
+      "title": "Sant Llorenç de Cerdans : Es funda l' Esquerra Catalana dels Treballadors (ECT) , primer…",
+      "text": "Sant Llorenç de Cerdans : Es funda l' Esquerra Catalana dels Treballadors (ECT) , primer partit nacionalista català a la Catalunya del Nord.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 2,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 4
     },
     {
-      "year": null,
-      "title": "2011 , País Basc : ETA anuncia que atura definitivament l'activitat armada. Aquest anunci es…",
-      "text": "2011 , País Basc : ETA anuncia que atura definitivament l'activitat armada. Aquest anunci es fa 3 dies després de la celebració d'una Conferència Internacional de Pau de Sant Sebastià.",
+      "year": 1805,
+      "title": "Cadis , Espanya : Una flota britànica, comandada pel vicealmirall Nelson derrota una flota…",
+      "text": "Cadis , Espanya : Una flota britànica, comandada pel vicealmirall Nelson derrota una flota combinada franco - espanyola a les ordres de l'almirall Villeneuve . La batalla de Trafalgar marca el final del poder marítim francès i deixa a la Royal Navy sense rival fins al segle xx.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 11
+    },
+    {
+      "year": 2004,
+      "title": "Brussel·les , Bèlgica : Després de 9 anys d'obres, Romano Prodi hi inaugura la remodelació…",
+      "text": "Brussel·les , Bèlgica : Després de 9 anys d'obres, Romano Prodi hi inaugura la remodelació de l' edifici Berlaymont , seu de la Comissió Europea.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 7
     },
     {
-      "year": null,
-      "title": "1944 , Albània : s'estableix el primer govern provisional després de l'ocupació nazi",
-      "text": "1944 , Albània : s'estableix el primer govern provisional després de l'ocupació nazi.",
-      "scope": "EUR",
-      "territory": "Europa",
-      "category": "historia_politica_geografia",
-      "importance": 4,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 13
-    },
-    {
-      "year": null,
-      "title": "1465 , Montenaken , Principat de Lieja ): Batalla de Montenaken entre les forces de Felip…",
-      "text": "1465 , Montenaken , Principat de Lieja ): Batalla de Montenaken entre les forces de Felip III de Borgonya i les milícies liegeses.",
+      "year": 1895,
+      "title": "Taiwan : La breu República de Formosa cau en ocupar els japonesos l'illa que els havia cedit…",
+      "text": "Taiwan : La breu República de Formosa cau en ocupar els japonesos l'illa que els havia cedit la Xina , el 17 d'abril , pel Tractat de Shimonoseki.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 10
     }
   ],
   "scope_order": [
@@ -85,22 +85,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "figa",
-      "raïm",
-      "poma Reineta",
-      "clementina"
+      "pomes vermelles",
+      "pera Ercolini",
+      "nectarina",
+      "poma Golden"
     ],
     "hortalisses": [
-      "ceba",
-      "coliflor",
-      "carbassó",
+      "api",
+      "cogombre",
+      "pebrot",
       "bròquil",
-      "tomàquet"
+      "albergínia"
     ],
     "pesca": [
+      "bonítol",
       "lluç",
-      "verat",
-      "calamar"
+      "sardina"
     ],
     "all": {
       "fruites": [
@@ -165,9 +165,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
   },
-  "generated_at": "2026-10-20T11:36:36+02:00"
+  "generated_at": "2026-10-21T11:36:17+02:00"
 }

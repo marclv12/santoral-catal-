@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-21",
+  "date_ca": "Dimecres, 21 de octubre de 2026",
+  "day_of_year": 294,
+  "days_remaining": 71,
+  "week": 43,
+  "location": "Barcelona",
+  "sunrise": "08:10",
+  "sunset": "19:01",
+  "moon_phase": "gibosa creixent",
+  "saints": [
+    "Sant Hilarió Abat",
+    "Santa Úrsula Màrtir"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/21",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1972,
+      "title": "Sant Llorenç de Cerdans : Es funda l' Esquerra Catalana dels Treballadors (ECT) , primer…",
+      "text": "Sant Llorenç de Cerdans : Es funda l' Esquerra Catalana dels Treballadors (ECT) , primer partit nacionalista català a la Catalunya del Nord.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 1805,
+      "title": "Cadis , Espanya : Una flota britànica, comandada pel vicealmirall Nelson derrota una flota…",
+      "text": "Cadis , Espanya : Una flota britànica, comandada pel vicealmirall Nelson derrota una flota combinada franco - espanyola a les ordres de l'almirall Villeneuve . La batalla de Trafalgar marca el final del poder marítim francès i deixa a la Royal Navy sense rival fins al segle xx.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 11
+    },
+    {
+      "year": 2004,
+      "title": "Brussel·les , Bèlgica : Després de 9 anys d'obres, Romano Prodi hi inaugura la remodelació…",
+      "text": "Brussel·les , Bèlgica : Després de 9 anys d'obres, Romano Prodi hi inaugura la remodelació de l' edifici Berlaymont , seu de la Comissió Europea.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1895,
+      "title": "Taiwan : La breu República de Formosa cau en ocupar els japonesos l'illa que els havia cedit…",
+      "text": "Taiwan : La breu República de Formosa cau en ocupar els japonesos l'illa que els havia cedit la Xina , el 17 d'abril , pel Tractat de Shimonoseki.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "pomes vermelles",
+      "pera Ercolini",
+      "nectarina",
+      "poma Golden"
+    ],
+    "hortalisses": [
+      "api",
+      "cogombre",
+      "pebrot",
+      "bròquil",
+      "albergínia"
+    ],
+    "pesca": [
+      "bonítol",
+      "lluç",
+      "sardina"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-10-21T11:36:17+02:00"
+}
