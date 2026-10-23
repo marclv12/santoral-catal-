@@ -1,79 +1,77 @@
 {
-  "date": "2026-10-22",
-  "date_ca": "Dijous, 22 de octubre de 2026",
-  "day_of_year": 295,
-  "days_remaining": 70,
+  "date": "2026-10-23",
+  "date_ca": "Divendres, 23 de octubre de 2026",
+  "day_of_year": 296,
+  "days_remaining": 69,
   "week": 43,
   "location": "Barcelona",
-  "sunrise": "08:11",
-  "sunset": "18:59",
+  "sunrise": "08:12",
+  "sunset": "18:58",
   "moon_phase": "gibosa creixent",
   "saints": [
-    "Santa Salomé",
-    "Santa Nunilona i Santa Alòdia Màrtirs"
+    "Sant Joan de Capestrano Prevere"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/22",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/23",
     "status": "live"
   },
   "efemerides": [
     {
-      "id": "cat-1705-entrada-carles-iii-barcelona",
-      "year": 1705,
+      "year": 1977,
+      "title": "el Prat de Llobregat (el Baix Llobregat ): el president Tarradellas hi arriba procedent de…",
+      "text": "el Prat de Llobregat (el Baix Llobregat ): el president Tarradellas hi arriba procedent de l'exili.",
       "scope": "CAT",
-      "territory": "Barcelona",
-      "category": "historia_politica",
-      "importance": 5,
-      "featured": true,
-      "title": "Entrada de Carles d'Àustria a Barcelona",
-      "text": "l'arxiduc Carles entrà a Barcelona després de la victòria aliada i fou reconegut pels seus partidaris com a rei Carles III.",
-      "source_name": "Enciclopèdia Catalana",
-      "source_url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/guerra-de-successio-hispanica",
-      "verified": true,
-      "origin": "curated"
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
     },
     {
-      "year": null,
-      "title": "1855 , Espanya : hi entra en vigor un reial decret que crea un jutjat de pau en cada municipi",
-      "text": "1855 , Espanya : hi entra en vigor un reial decret que crea un jutjat de pau en cada municipi.",
+      "year": 1702,
+      "title": "Vigo ( Galícia ): Els aliats van guanyar la batalla naval de la badia de Vigo en el curs de…",
+      "text": "Vigo ( Galícia ): Els aliats van guanyar la batalla naval de la badia de Vigo en el curs de la Guerra de Successió Espanyola.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/22_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 10
     },
     {
-      "year": null,
-      "title": "1709 , Copenhaguen , Dinamarca : l' Imperi Rus i el Regne de Dinamarca i Noruega signen la…",
-      "text": "1709 , Copenhaguen , Dinamarca : l' Imperi Rus i el Regne de Dinamarca i Noruega signen la seva aliança en el Tractat de Copenhagen (1709) en el marc de la Gran Guerra del Nord.",
+      "year": 425,
+      "title": "Roma : Valentinià III és nomenat emperador, a l'edat de 6 anys",
+      "text": "Roma : Valentinià III és nomenat emperador, a l'edat de 6 anys.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/22_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 9
     },
     {
-      "year": 1962,
-      "title": "El president John Fitzgerald Kennedy anuncia el bloqueig de Cuba per la marina de guerra…",
-      "text": "El president John Fitzgerald Kennedy anuncia el bloqueig de Cuba per la marina de guerra dels Estats Units fins que la Unió Soviètica retiri els míssils instal·lats a l'illa ( Crisi dels Míssils ).",
+      "year": 1940,
+      "title": "Hendaia : hi té lloc la trobada del General Franco amb Adolf Hitler en què li promet…",
+      "text": "Hendaia : hi té lloc la trobada del General Franco amb Adolf Hitler en què li promet col·laborar amb una divisió de voluntaris (la Divisió Blava ), però mantenint-se al marge de la Segona Guerra Mundial.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/22_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 7
     }
   ],
   "scope_order": [
@@ -82,26 +80,26 @@
     "EUR",
     "GLOBAL"
   ],
-  "refrany": "Quan l'octubre és finit, mor la mosca i el mosquit.",
+  "refrany": null,
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "raïm",
       "pera Ercolini",
-      "pera Conference",
-      "pera Williams"
+      "poma Golden",
+      "nectarina",
+      "poma Gala"
     ],
     "hortalisses": [
-      "enciam",
-      "coliflor",
-      "pastanaga",
+      "escarola",
       "all tendre",
-      "bròquil"
+      "enciam",
+      "pastanaga",
+      "pèsols"
     ],
     "pesca": [
-      "galera",
+      "llenguado",
       "lluç",
-      "bonítol"
+      "sardina"
     ],
     "all": {
       "fruites": [
@@ -166,9 +164,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Miquel Martí i Pol",
-    "text": "Tot està per fer i tot és possible.",
-    "source": "Ara mateix"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-10-22T11:36:28+02:00"
+  "generated_at": "2026-10-23T11:32:09+02:00"
 }
