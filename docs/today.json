@@ -1,77 +1,63 @@
 {
-  "date": "2026-10-23",
-  "date_ca": "Divendres, 23 de octubre de 2026",
-  "day_of_year": 296,
-  "days_remaining": 69,
+  "date": "2026-10-24",
+  "date_ca": "Dissabte, 24 de octubre de 2026",
+  "day_of_year": 297,
+  "days_remaining": 68,
   "week": 43,
   "location": "Barcelona",
-  "sunrise": "08:12",
-  "sunset": "18:58",
+  "sunrise": "08:13",
+  "sunset": "18:56",
   "moon_phase": "gibosa creixent",
   "saints": [
-    "Sant Joan de Capestrano Prevere"
+    "Sant Antoni Maria Claret Bisbe"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/23",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/24",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1977,
-      "title": "el Prat de Llobregat (el Baix Llobregat ): el president Tarradellas hi arriba procedent de…",
-      "text": "el Prat de Llobregat (el Baix Llobregat ): el president Tarradellas hi arriba procedent de l'exili.",
+      "year": 1936,
+      "title": "Catalunya : El Parlament de la Generalitat aprova el Decret de col·lectivitzacions amb…",
+      "text": "Catalunya : El Parlament de la Generalitat aprova el Decret de col·lectivitzacions amb l'objectiu de socialitzar l'economia.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/24_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 13
     },
     {
-      "year": 1702,
-      "title": "Vigo ( Galícia ): Els aliats van guanyar la batalla naval de la badia de Vigo en el curs de…",
-      "text": "Vigo ( Galícia ): Els aliats van guanyar la batalla naval de la badia de Vigo en el curs de la Guerra de Successió Espanyola.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 10
-    },
-    {
-      "year": 425,
-      "title": "Roma : Valentinià III és nomenat emperador, a l'edat de 6 anys",
-      "text": "Roma : Valentinià III és nomenat emperador, a l'edat de 6 anys.",
+      "year": 1745,
+      "title": "Castell de Fontainebleau : França signa amb el pretenent al tron britànic Carles Eduard…",
+      "text": "Castell de Fontainebleau : França signa amb el pretenent al tron britànic Carles Eduard Stuart el Tractat de Fontainebleau en el que fan una aliança militar contra Jordi II del Regne Unit.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/24_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 9
+      "score": 10
     },
     {
-      "year": 1940,
-      "title": "Hendaia : hi té lloc la trobada del General Franco amb Adolf Hitler en què li promet…",
-      "text": "Hendaia : hi té lloc la trobada del General Franco amb Adolf Hitler en què li promet col·laborar amb una divisió de voluntaris (la Divisió Blava ), però mantenint-se al marge de la Segona Guerra Mundial.",
+      "year": 1837,
+      "title": "Cantavella ( Maestrat Aragonès ): els carlins recuperen la vil·la al final del setge de…",
+      "text": "Cantavella ( Maestrat Aragonès ): els carlins recuperen la vil·la al final del setge de Cantavella durant la Primera Guerra Carlina.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/23_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/24_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 10
     }
   ],
   "scope_order": [
@@ -84,22 +70,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "pera Ercolini",
-      "poma Golden",
-      "nectarina",
-      "poma Gala"
+      "taronja navel",
+      "pera Blanquilla",
+      "pera Williams",
+      "pomes vermelles"
     ],
     "hortalisses": [
-      "escarola",
+      "síndria",
+      "meló",
+      "porro",
       "all tendre",
-      "enciam",
-      "pastanaga",
-      "pèsols"
+      "bleda"
     ],
     "pesca": [
-      "llenguado",
+      "sípia",
       "lluç",
-      "sardina"
+      "llenguado"
     ],
     "all": {
       "fruites": [
@@ -168,5 +154,5 @@
     "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
     "source": "La sardana"
   },
-  "generated_at": "2026-10-23T11:32:09+02:00"
+  "generated_at": "2026-10-24T11:05:30+02:00"
 }
