@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-26",
+  "date_ca": "Dilluns, 26 de octubre de 2026",
+  "day_of_year": 299,
+  "days_remaining": 66,
+  "week": 44,
+  "location": "Barcelona",
+  "sunrise": "07:15",
+  "sunset": "17:54",
+  "moon_phase": "lluna plena",
+  "saints": [
+    "Sant Llucià i sant Marcià Màrtirs"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/26",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2008,
+      "title": "Girona : Els Minyons de Terrassa descarreguen per primera vegada en la seva història el…",
+      "text": "Girona : Els Minyons de Terrassa descarreguen per primera vegada en la seva història el pilar de 8 amb folre i manilles . Molins de Rei : Els Castellers de Barcelona descarreguen per primera vegada en la seva història el pilar de sis.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1971,
+      "title": "La Palma ( Canàries ): entra en erupció el volcà Teneguía",
+      "text": "La Palma ( Canàries ): entra en erupció el volcà Teneguía.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 2004,
+      "title": "Es crea l'Agència europea per a la gestió de la cooperació operativa a les fronteres…",
+      "text": "Es crea l'Agència europea per a la gestió de la cooperació operativa a les fronteres exteriors dels Estats membres de la Unió Europea , també anomenada Frontex.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 9
+    },
+    {
+      "year": null,
+      "title": "1864 , Decatur (Alabama) : Comença la batalla de Decatur com a part de la Campanya…",
+      "text": "1864 , Decatur (Alabama) : Comença la batalla de Decatur com a part de la Campanya Franklin-Nashville de la Guerra Civil dels Estats Units.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "poma Golden",
+      "raïm",
+      "pera Ercolini",
+      "nectarina"
+    ],
+    "hortalisses": [
+      "carbassó",
+      "pebrot",
+      "all tendre",
+      "síndria",
+      "cogombre"
+    ],
+    "pesca": [
+      "escórpora",
+      "sípia",
+      "lluç"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-10-26T12:30:47+01:00"
+}
