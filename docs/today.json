@@ -1,77 +1,80 @@
 {
-  "date": "2026-10-26",
-  "date_ca": "Dilluns, 26 de octubre de 2026",
-  "day_of_year": 299,
-  "days_remaining": 66,
+  "date": "2026-10-27",
+  "date_ca": "Dimarts, 27 de octubre de 2026",
+  "day_of_year": 300,
+  "days_remaining": 65,
   "week": 44,
   "location": "Barcelona",
-  "sunrise": "07:15",
-  "sunset": "17:54",
+  "sunrise": "07:16",
+  "sunset": "17:52",
   "moon_phase": "lluna plena",
   "saints": [
-    "Sant Llucià i sant Marcià Màrtirs"
+    "Sant Evarist Papa",
+    "Sant Frumenci, Bisbe",
+    "Sants Vicenç, Sabina i Cristeta Màrtirs"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/26",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/27",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 2008,
-      "title": "Girona : Els Minyons de Terrassa descarreguen per primera vegada en la seva història el…",
-      "text": "Girona : Els Minyons de Terrassa descarreguen per primera vegada en la seva història el pilar de 8 amb folre i manilles . Molins de Rei : Els Castellers de Barcelona descarreguen per primera vegada en la seva història el pilar de sis.",
+      "id": "cat-2017-declaracio-independencia",
+      "year": 2017,
       "scope": "CAT",
-      "territory": "Països Catalans",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 7
+      "territory": "Catalunya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Declaració d'independència de Catalunya",
+      "text": "el Parlament de Catalunya aprovà una resolució que declarava la constitució de la República catalana com a estat independent i sobirà.",
+      "source_name": "Parlament de Catalunya",
+      "source_url": "https://www.parlament.cat/document/actualitat/238626.pdf",
+      "verified": true,
+      "origin": "curated"
     },
     {
-      "year": 1971,
-      "title": "La Palma ( Canàries ): entra en erupció el volcà Teneguía",
-      "text": "La Palma ( Canàries ): entra en erupció el volcà Teneguía.",
+      "year": 1795,
+      "title": "Monestir de l'Escorial ( Comunitat de Madrid ): Espanya signa amb els Estats Units el…",
+      "text": "Monestir de l'Escorial ( Comunitat de Madrid ): Espanya signa amb els Estats Units el Tractat de Madrid que definia l'aliança entre els dos països i els límits territorials dels Estats Units amb les dues Florides , que eren colònies espanyoles.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 2,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 4
+      "score": 13
     },
     {
-      "year": 2004,
-      "title": "Es crea l'Agència europea per a la gestió de la cooperació operativa a les fronteres…",
-      "text": "Es crea l'Agència europea per a la gestió de la cooperació operativa a les fronteres exteriors dels Estats membres de la Unió Europea , també anomenada Frontex.",
+      "year": null,
+      "title": "312 , Roma : Visió de Constantí I el Gran (vegeu Batalla del Pont Milvi )",
+      "text": "312 , Roma : Visió de Constantí I el Gran (vegeu Batalla del Pont Milvi ).",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 9
+      "score": 7
     },
     {
       "year": null,
-      "title": "1864 , Decatur (Alabama) : Comença la batalla de Decatur com a part de la Campanya…",
-      "text": "1864 , Decatur (Alabama) : Comença la batalla de Decatur com a part de la Campanya Franklin-Nashville de la Guerra Civil dels Estats Units.",
+      "title": "710 , Sardenya : Invasió sarraïna de Sardenya",
+      "text": "710 , Sardenya : Invasió sarraïna de Sardenya.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/26_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 9
     }
   ],
   "scope_order": [
@@ -80,26 +83,26 @@
     "EUR",
     "GLOBAL"
   ],
-  "refrany": null,
+  "refrany": "Octubre tronat, hivern nevat.",
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "poma Golden",
-      "raïm",
-      "pera Ercolini",
-      "nectarina"
+      "nectarina",
+      "pera Llimonera",
+      "clementina",
+      "poma Gala"
     ],
     "hortalisses": [
-      "carbassó",
-      "pebrot",
-      "all tendre",
+      "mongeta verda",
+      "ceba",
       "síndria",
-      "cogombre"
+      "escarola",
+      "pastanaga"
     ],
     "pesca": [
-      "escórpora",
-      "sípia",
-      "lluç"
+      "galera",
+      "lluç",
+      "llenguado"
     ],
     "all": {
       "fruites": [
@@ -164,9 +167,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Salvador Espriu",
-    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
-    "source": "Inici de càntic en el temple"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-10-26T12:30:47+01:00"
+  "generated_at": "2026-10-27T11:56:03+01:00"
 }

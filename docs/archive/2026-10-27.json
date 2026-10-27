@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-27",
+  "date_ca": "Dimarts, 27 de octubre de 2026",
+  "day_of_year": 300,
+  "days_remaining": 65,
+  "week": 44,
+  "location": "Barcelona",
+  "sunrise": "07:16",
+  "sunset": "17:52",
+  "moon_phase": "lluna plena",
+  "saints": [
+    "Sant Evarist Papa",
+    "Sant Frumenci, Bisbe",
+    "Sants Vicenç, Sabina i Cristeta Màrtirs"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/27",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "id": "cat-2017-declaracio-independencia",
+      "year": 2017,
+      "scope": "CAT",
+      "territory": "Catalunya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Declaració d'independència de Catalunya",
+      "text": "el Parlament de Catalunya aprovà una resolució que declarava la constitució de la República catalana com a estat independent i sobirà.",
+      "source_name": "Parlament de Catalunya",
+      "source_url": "https://www.parlament.cat/document/actualitat/238626.pdf",
+      "verified": true,
+      "origin": "curated"
+    },
+    {
+      "year": 1795,
+      "title": "Monestir de l'Escorial ( Comunitat de Madrid ): Espanya signa amb els Estats Units el…",
+      "text": "Monestir de l'Escorial ( Comunitat de Madrid ): Espanya signa amb els Estats Units el Tractat de Madrid que definia l'aliança entre els dos països i els límits territorials dels Estats Units amb les dues Florides , que eren colònies espanyoles.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    },
+    {
+      "year": null,
+      "title": "312 , Roma : Visió de Constantí I el Gran (vegeu Batalla del Pont Milvi )",
+      "text": "312 , Roma : Visió de Constantí I el Gran (vegeu Batalla del Pont Milvi ).",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": null,
+      "title": "710 , Sardenya : Invasió sarraïna de Sardenya",
+      "text": "710 , Sardenya : Invasió sarraïna de Sardenya.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 9
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": "Octubre tronat, hivern nevat.",
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "nectarina",
+      "pera Llimonera",
+      "clementina",
+      "poma Gala"
+    ],
+    "hortalisses": [
+      "mongeta verda",
+      "ceba",
+      "síndria",
+      "escarola",
+      "pastanaga"
+    ],
+    "pesca": [
+      "galera",
+      "lluç",
+      "llenguado"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
+  },
+  "generated_at": "2026-10-27T11:56:03+01:00"
+}
