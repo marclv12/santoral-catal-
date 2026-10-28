@@ -1,80 +1,77 @@
 {
-  "date": "2026-10-27",
-  "date_ca": "Dimarts, 27 de octubre de 2026",
-  "day_of_year": 300,
-  "days_remaining": 65,
+  "date": "2026-10-28",
+  "date_ca": "Dimecres, 28 de octubre de 2026",
+  "day_of_year": 301,
+  "days_remaining": 64,
   "week": 44,
   "location": "Barcelona",
-  "sunrise": "07:16",
-  "sunset": "17:52",
-  "moon_phase": "lluna plena",
+  "sunrise": "07:18",
+  "sunset": "17:51",
+  "moon_phase": "gibosa minvant",
   "saints": [
-    "Sant Evarist Papa",
-    "Sant Frumenci, Bisbe",
-    "Sants Vicenç, Sabina i Cristeta Màrtirs"
+    "Sant Simó i Sant Judes Apòstols"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/27",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/28",
     "status": "live"
   },
   "efemerides": [
     {
-      "id": "cat-2017-declaracio-independencia",
-      "year": 2017,
+      "year": 1848,
+      "title": "Catalunya - Barcelona i Mataró (el Maresme ): inauguren el ferrocarril que unirà aquestes…",
+      "text": "Catalunya - Barcelona i Mataró (el Maresme ): inauguren el ferrocarril que unirà aquestes localitats : en aquells moments és el segon de l' estat (el primer es va fer a Cuba ).",
       "scope": "CAT",
-      "territory": "Catalunya",
-      "category": "historia_politica",
-      "importance": 5,
-      "featured": true,
-      "title": "Declaració d'independència de Catalunya",
-      "text": "el Parlament de Catalunya aprovà una resolució que declarava la constitució de la República catalana com a estat independent i sobirà.",
-      "source_name": "Parlament de Catalunya",
-      "source_url": "https://www.parlament.cat/document/actualitat/238626.pdf",
-      "verified": true,
-      "origin": "curated"
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
     },
     {
-      "year": 1795,
-      "title": "Monestir de l'Escorial ( Comunitat de Madrid ): Espanya signa amb els Estats Units el…",
-      "text": "Monestir de l'Escorial ( Comunitat de Madrid ): Espanya signa amb els Estats Units el Tractat de Madrid que definia l'aliança entre els dos països i els límits territorials dels Estats Units amb les dues Florides , que eren colònies espanyoles.",
+      "year": 1708,
+      "title": "Lilla ( França ) - Els exèrcits imperials ocupen la ciutat de Lilla després del Setge de…",
+      "text": "Lilla ( França ) - Els exèrcits imperials ocupen la ciutat de Lilla després del Setge de Lilla (1708) en el curs de la Guerra de Successió Espanyola.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 13
     },
     {
-      "year": null,
-      "title": "312 , Roma : Visió de Constantí I el Gran (vegeu Batalla del Pont Milvi )",
-      "text": "312 , Roma : Visió de Constantí I el Gran (vegeu Batalla del Pont Milvi ).",
+      "year": 1715,
+      "title": "Greifswald : Jordi I de la Gran Bretanya i l'elector de Hannover signen el Tractat de…",
+      "text": "Greifswald : Jordi I de la Gran Bretanya i l'elector de Hannover signen el Tractat de Greifswald durant la Gran Guerra del Nord per assegurar-se la neutralitat de Rússia en l'annexió de Bremen-Verden a canvi d'acceptar l'annexió a Rússia de l' Íngria sueca , l' Estònia Sueca , Reval i Carèlia.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 14
     },
     {
-      "year": null,
-      "title": "710 , Sardenya : Invasió sarraïna de Sardenya",
-      "text": "710 , Sardenya : Invasió sarraïna de Sardenya.",
+      "year": 1919,
+      "title": "EEUU : El Senat aprova la Llei Volstead (o la Llei Seca ) que entraria en vigor el 17 de…",
+      "text": "EEUU : El Senat aprova la Llei Volstead (o la Llei Seca ) que entraria en vigor el 17 de gener de l'any que ve.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/27_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 9
+      "score": 10
     }
   ],
   "scope_order": [
@@ -83,26 +80,26 @@
     "EUR",
     "GLOBAL"
   ],
-  "refrany": "Octubre tronat, hivern nevat.",
+  "refrany": null,
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "nectarina",
+      "préssec",
       "pera Llimonera",
-      "clementina",
-      "poma Gala"
+      "pera Blanquilla",
+      "poma Reineta"
     ],
     "hortalisses": [
+      "coliflor",
       "mongeta verda",
-      "ceba",
+      "espinacs",
       "síndria",
-      "escarola",
-      "pastanaga"
+      "porro"
     ],
     "pesca": [
-      "galera",
-      "lluç",
-      "llenguado"
+      "bonítol",
+      "calamar",
+      "sardina"
     ],
     "all": {
       "fruites": [
@@ -167,9 +164,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
   },
-  "generated_at": "2026-10-27T11:56:03+01:00"
+  "generated_at": "2026-10-28T12:36:07+01:00"
 }

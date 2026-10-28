@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-28",
+  "date_ca": "Dimecres, 28 de octubre de 2026",
+  "day_of_year": 301,
+  "days_remaining": 64,
+  "week": 44,
+  "location": "Barcelona",
+  "sunrise": "07:18",
+  "sunset": "17:51",
+  "moon_phase": "gibosa minvant",
+  "saints": [
+    "Sant Simó i Sant Judes Apòstols"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/28",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1848,
+      "title": "Catalunya - Barcelona i Mataró (el Maresme ): inauguren el ferrocarril que unirà aquestes…",
+      "text": "Catalunya - Barcelona i Mataró (el Maresme ): inauguren el ferrocarril que unirà aquestes localitats : en aquells moments és el segon de l' estat (el primer es va fer a Cuba ).",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1708,
+      "title": "Lilla ( França ) - Els exèrcits imperials ocupen la ciutat de Lilla després del Setge de…",
+      "text": "Lilla ( França ) - Els exèrcits imperials ocupen la ciutat de Lilla després del Setge de Lilla (1708) en el curs de la Guerra de Successió Espanyola.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    },
+    {
+      "year": 1715,
+      "title": "Greifswald : Jordi I de la Gran Bretanya i l'elector de Hannover signen el Tractat de…",
+      "text": "Greifswald : Jordi I de la Gran Bretanya i l'elector de Hannover signen el Tractat de Greifswald durant la Gran Guerra del Nord per assegurar-se la neutralitat de Rússia en l'annexió de Bremen-Verden a canvi d'acceptar l'annexió a Rússia de l' Íngria sueca , l' Estònia Sueca , Reval i Carèlia.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 14
+    },
+    {
+      "year": 1919,
+      "title": "EEUU : El Senat aprova la Llei Volstead (o la Llei Seca ) que entraria en vigor el 17 de…",
+      "text": "EEUU : El Senat aprova la Llei Volstead (o la Llei Seca ) que entraria en vigor el 17 de gener de l'any que ve.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "préssec",
+      "pera Llimonera",
+      "pera Blanquilla",
+      "poma Reineta"
+    ],
+    "hortalisses": [
+      "coliflor",
+      "mongeta verda",
+      "espinacs",
+      "síndria",
+      "porro"
+    ],
+    "pesca": [
+      "bonítol",
+      "calamar",
+      "sardina"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-10-28T12:36:07+01:00"
+}
