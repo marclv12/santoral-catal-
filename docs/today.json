@@ -1,77 +1,77 @@
 {
-  "date": "2026-10-28",
-  "date_ca": "Dimecres, 28 de octubre de 2026",
-  "day_of_year": 301,
-  "days_remaining": 64,
+  "date": "2026-10-29",
+  "date_ca": "Dijous, 29 de octubre de 2026",
+  "day_of_year": 302,
+  "days_remaining": 63,
   "week": 44,
   "location": "Barcelona",
-  "sunrise": "07:18",
-  "sunset": "17:51",
+  "sunrise": "07:19",
+  "sunset": "17:50",
   "moon_phase": "gibosa minvant",
   "saints": [
-    "Sant Simó i Sant Judes Apòstols"
+    "Sant Narcís Bisbe i màrtir"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/28",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/29",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1848,
-      "title": "Catalunya - Barcelona i Mataró (el Maresme ): inauguren el ferrocarril que unirà aquestes…",
-      "text": "Catalunya - Barcelona i Mataró (el Maresme ): inauguren el ferrocarril que unirà aquestes localitats : en aquells moments és el segon de l' estat (el primer es va fer a Cuba ).",
+      "year": 2004,
+      "title": "Barcelona: Pasqual Maragall , Jaume Matas , Marcel·lí Iglesias i Martin Malvi , en…",
+      "text": "Barcelona: Pasqual Maragall , Jaume Matas , Marcel·lí Iglesias i Martin Malvi , en representació de Catalunya , les Illes Balears , l' Aragó i el Migdia Pirineus , hi signen la Declaració constitutiva de l' Euroregió Pirineus-Mediterrània . Espanya : el govern aprova un Reial Decret que permetrà als científics de fer recerca amb cèl·lules mare d' embrions sobrers de fertilitzacions in vitro.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 10
-    },
-    {
-      "year": 1708,
-      "title": "Lilla ( França ) - Els exèrcits imperials ocupen la ciutat de Lilla després del Setge de…",
-      "text": "Lilla ( França ) - Els exèrcits imperials ocupen la ciutat de Lilla després del Setge de Lilla (1708) en el curs de la Guerra de Successió Espanyola.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 13
-    },
-    {
-      "year": 1715,
-      "title": "Greifswald : Jordi I de la Gran Bretanya i l'elector de Hannover signen el Tractat de…",
-      "text": "Greifswald : Jordi I de la Gran Bretanya i l'elector de Hannover signen el Tractat de Greifswald durant la Gran Guerra del Nord per assegurar-se la neutralitat de Rússia en l'annexió de Bremen-Verden a canvi d'acceptar l'annexió a Rússia de l' Íngria sueca , l' Estònia Sueca , Reval i Carèlia.",
-      "scope": "EUR",
-      "territory": "Europa",
-      "category": "historia_politica_geografia",
-      "importance": 4,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
       "verified": false,
       "origin": "automatic",
       "score": 14
     },
     {
-      "year": 1919,
-      "title": "EEUU : El Senat aprova la Llei Volstead (o la Llei Seca ) que entraria en vigor el 17 de…",
-      "text": "EEUU : El Senat aprova la Llei Volstead (o la Llei Seca ) que entraria en vigor el 17 de gener de l'any que ve.",
+      "year": null,
+      "title": "1933 , Madrid , Espanya : se celebra l'acte fundacional de Falange Española al teatro de la…",
+      "text": "1933 , Madrid , Espanya : se celebra l'acte fundacional de Falange Española al teatro de la Comedia.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 2004,
+      "title": "Roma , Itàlia : els caps de govern de la Unió Europea hi signen el tractat conegut com la…",
+      "text": "Roma , Itàlia : els caps de govern de la Unió Europea hi signen el tractat conegut com la Constitució Europea . Clamart , Hauts-de-Seine , França : Iasser Arafat ingressa a l'hospital militar de la ciutat.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    },
+    {
+      "year": null,
+      "title": "1864 , Decatur (Alabama) : acaba la batalla de Decatur , part de la Campanya…",
+      "text": "1864 , Decatur (Alabama) : acaba la batalla de Decatur , part de la Campanya Franklin-Nashville de la Guerra Civil dels Estats Units.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/28_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 13
     }
   ],
   "scope_order": [
@@ -84,22 +84,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "préssec",
-      "pera Llimonera",
-      "pera Blanquilla",
-      "poma Reineta"
+      "figa",
+      "pera Williams",
+      "pera Conference",
+      "pera Blanquilla"
     ],
     "hortalisses": [
+      "pèsols",
+      "albergínia",
       "coliflor",
       "mongeta verda",
-      "espinacs",
-      "síndria",
-      "porro"
+      "enciam"
     ],
     "pesca": [
-      "bonítol",
-      "calamar",
-      "sardina"
+      "lluç",
+      "llenguado",
+      "verat"
     ],
     "all": {
       "fruites": [
@@ -168,5 +168,5 @@
     "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
     "source": "Inici de càntic en el temple"
   },
-  "generated_at": "2026-10-28T12:36:07+01:00"
+  "generated_at": "2026-10-29T12:43:23+01:00"
 }

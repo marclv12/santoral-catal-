@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-29",
+  "date_ca": "Dijous, 29 de octubre de 2026",
+  "day_of_year": 302,
+  "days_remaining": 63,
+  "week": 44,
+  "location": "Barcelona",
+  "sunrise": "07:19",
+  "sunset": "17:50",
+  "moon_phase": "gibosa minvant",
+  "saints": [
+    "Sant Narcís Bisbe i màrtir"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/29",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2004,
+      "title": "Barcelona: Pasqual Maragall , Jaume Matas , Marcel·lí Iglesias i Martin Malvi , en…",
+      "text": "Barcelona: Pasqual Maragall , Jaume Matas , Marcel·lí Iglesias i Martin Malvi , en representació de Catalunya , les Illes Balears , l' Aragó i el Migdia Pirineus , hi signen la Declaració constitutiva de l' Euroregió Pirineus-Mediterrània . Espanya : el govern aprova un Reial Decret que permetrà als científics de fer recerca amb cèl·lules mare d' embrions sobrers de fertilitzacions in vitro.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 14
+    },
+    {
+      "year": null,
+      "title": "1933 , Madrid , Espanya : se celebra l'acte fundacional de Falange Española al teatro de la…",
+      "text": "1933 , Madrid , Espanya : se celebra l'acte fundacional de Falange Española al teatro de la Comedia.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 2004,
+      "title": "Roma , Itàlia : els caps de govern de la Unió Europea hi signen el tractat conegut com la…",
+      "text": "Roma , Itàlia : els caps de govern de la Unió Europea hi signen el tractat conegut com la Constitució Europea . Clamart , Hauts-de-Seine , França : Iasser Arafat ingressa a l'hospital militar de la ciutat.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    },
+    {
+      "year": null,
+      "title": "1864 , Decatur (Alabama) : acaba la batalla de Decatur , part de la Campanya…",
+      "text": "1864 , Decatur (Alabama) : acaba la batalla de Decatur , part de la Campanya Franklin-Nashville de la Guerra Civil dels Estats Units.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/29_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "figa",
+      "pera Williams",
+      "pera Conference",
+      "pera Blanquilla"
+    ],
+    "hortalisses": [
+      "pèsols",
+      "albergínia",
+      "coliflor",
+      "mongeta verda",
+      "enciam"
+    ],
+    "pesca": [
+      "lluç",
+      "llenguado",
+      "verat"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-10-29T12:43:23+01:00"
+}
