@@ -1,78 +1,88 @@
 {
-  "date": "2026-10-30",
-  "date_ca": "Divendres, 30 de octubre de 2026",
-  "day_of_year": 303,
-  "days_remaining": 62,
+  "date": "2026-10-31",
+  "date_ca": "Dissabte, 31 de octubre de 2026",
+  "day_of_year": 304,
+  "days_remaining": 61,
   "week": 44,
   "location": "Barcelona",
-  "sunrise": "07:20",
-  "sunset": "17:48",
-  "moon_phase": "gibosa minvant",
+  "sunrise": "07:21",
+  "sunset": "17:47",
+  "moon_phase": "quart minvant",
   "saints": [
-    "Beata Benvinguda Boiani Verge",
-    "Sant Germà Bisbe"
+    "Santa Maria, Mare de DÃ©u",
+    "Sant Basili el Gran (330-379), bisbe de Cesarea de la CapadÃ²cia, i sant Gregori NacianzÃ¨ (330-390), bisbe de Constantinoble, doctors de l'EsglÃ©sia",
+    "Sant Anter, papa (grec, 235-236) i mr",
+    "Sant Rigobert, bisbe",
+    "Sant TelÃ¨sfor, papa (grec, 125-136) i mr",
+    "Sant Ramon de Penyafort (+1275), prev. dominicÃ, del PenedÃ¨s, patrÃ³ dels juristes i canonistes",
+    "Sant ApolÂ·linar, bisbe",
+    "Sant Eulogi de CÃ²rdova, prev. i mr. (859) mossÃ rab",
+    "Sant AgatÃ³, papa (siciliÃ, 678-681)",
+    "Sant Higini, papa (grec, 136-140) i mr",
+    "Sant Arcadi, mr",
+    "Sant Hilari (+367), bisbe de Poitiers i doctor de l'EsglÃ©sia"
   ],
   "saint_source": {
-    "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/10/30",
+    "name": "Santoral català — eCampmany",
+    "url": "https://www.ecampmany.com/santoral/",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1989,
-      "title": "Madrid ( Espanya ): el Tribunal Suprem aprova la segregació de Salou de Vila-seca de Solcina…",
-      "text": "Madrid ( Espanya ): el Tribunal Suprem aprova la segregació de Salou de Vila-seca de Solcina (el Tarragonès ).",
+      "year": 1713,
+      "title": "Cardona (el Bages ): Es trencà el Setge de Cardona en el marc de la Guerra dels catalans",
+      "text": "Cardona (el Bages ): Es trencà el Setge de Cardona en el marc de la Guerra dels catalans.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/30_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 10
     },
     {
-      "year": 1991,
-      "title": "Conflicte arabo-israelià : La Conferència de Pau de Madrid comença en un esforç per reavivar…",
-      "text": "Conflicte arabo-israelià : La Conferència de Pau de Madrid comença en un esforç per reavivar les negociacions de pau entre Israel i Palestina.",
+      "year": 1978,
+      "title": "Madrid : la Constitució espanyola és aprovada en sessió conjunta de les Corts",
+      "text": "Madrid : la Constitució espanyola és aprovada en sessió conjunta de les Corts.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/30_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 12
     },
     {
-      "year": null,
-      "title": "2014 Uagadugu , Burkina Faso : Aixecament burkinès de 2014 contra el president Blaise…",
-      "text": "2014 Uagadugu , Burkina Faso : Aixecament burkinès de 2014 contra el president Blaise Compaoré que va acabar dimitint. Suècia és el primer Estat membre de la Unió Europea que reconeix oficialment l' Estat de Palestina.",
+      "year": 1517,
+      "title": "Wittenberg (Sacre Imperi): Martí Luter exposa les 95 tesis on denuncia la falsedat de les…",
+      "text": "Wittenberg (Sacre Imperi): Martí Luter exposa les 95 tesis on denuncia la falsedat de les indulgències pontifícies.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/30_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 16
+      "score": 6
     },
     {
-      "year": 1980,
-      "title": "El Salvador i Hondures signen un tractat de pau i acorden posar la disputa fronterera que es…",
-      "text": "El Salvador i Hondures signen un tractat de pau i acorden posar la disputa fronterera que es va lliurar en la Guerra del Futbol de 1969 davant el Tribunal Internacional de Justícia.",
+      "year": 2011,
+      "title": "Nova York ( Estats Units ): la UNESCO aprova l' admissió de Palestina com a estat de ple…",
+      "text": "Nova York ( Estats Units ): la UNESCO aprova l' admissió de Palestina com a estat de ple dret a aquesta organització cultural.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/30_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 10
     }
   ],
   "scope_order": [
@@ -85,22 +95,22 @@
   "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
   "seasonal_foods": {
     "fruites": [
-      "pera Llimonera",
-      "pera Ercolini",
-      "clementina",
-      "pomes vermelles"
+      "poma Gala",
+      "poma Golden",
+      "figa",
+      "pera Williams"
     ],
     "hortalisses": [
-      "albergínia",
-      "api",
-      "pebrot",
+      "mongeta verda",
+      "enciam",
       "tomàquet",
-      "pastanaga"
+      "porro",
+      "escarola"
     ],
     "pesca": [
-      "llenguado",
-      "lluç",
-      "escórpora"
+      "escórpora",
+      "sardina",
+      "bonítol"
     ],
     "all": {
       "fruites": [
@@ -169,5 +179,5 @@
     "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
     "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-10-30T12:35:36+01:00"
+  "generated_at": "2026-10-31T12:11:26+01:00"
 }

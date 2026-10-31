@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-31",
+  "date_ca": "Dissabte, 31 de octubre de 2026",
+  "day_of_year": 304,
+  "days_remaining": 61,
+  "week": 44,
+  "location": "Barcelona",
+  "sunrise": "07:21",
+  "sunset": "17:47",
+  "moon_phase": "quart minvant",
+  "saints": [
+    "Santa Maria, Mare de DÃ©u",
+    "Sant Basili el Gran (330-379), bisbe de Cesarea de la CapadÃ²cia, i sant Gregori NacianzÃ¨ (330-390), bisbe de Constantinoble, doctors de l'EsglÃ©sia",
+    "Sant Anter, papa (grec, 235-236) i mr",
+    "Sant Rigobert, bisbe",
+    "Sant TelÃ¨sfor, papa (grec, 125-136) i mr",
+    "Sant Ramon de Penyafort (+1275), prev. dominicÃ, del PenedÃ¨s, patrÃ³ dels juristes i canonistes",
+    "Sant ApolÂ·linar, bisbe",
+    "Sant Eulogi de CÃ²rdova, prev. i mr. (859) mossÃ rab",
+    "Sant AgatÃ³, papa (siciliÃ, 678-681)",
+    "Sant Higini, papa (grec, 136-140) i mr",
+    "Sant Arcadi, mr",
+    "Sant Hilari (+367), bisbe de Poitiers i doctor de l'EsglÃ©sia"
+  ],
+  "saint_source": {
+    "name": "Santoral català — eCampmany",
+    "url": "https://www.ecampmany.com/santoral/",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1713,
+      "title": "Cardona (el Bages ): Es trencà el Setge de Cardona en el marc de la Guerra dels catalans",
+      "text": "Cardona (el Bages ): Es trencà el Setge de Cardona en el marc de la Guerra dels catalans.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1978,
+      "title": "Madrid : la Constitució espanyola és aprovada en sessió conjunta de les Corts",
+      "text": "Madrid : la Constitució espanyola és aprovada en sessió conjunta de les Corts.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 12
+    },
+    {
+      "year": 1517,
+      "title": "Wittenberg (Sacre Imperi): Martí Luter exposa les 95 tesis on denuncia la falsedat de les…",
+      "text": "Wittenberg (Sacre Imperi): Martí Luter exposa les 95 tesis on denuncia la falsedat de les indulgències pontifícies.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 6
+    },
+    {
+      "year": 2011,
+      "title": "Nova York ( Estats Units ): la UNESCO aprova l' admissió de Palestina com a estat de ple…",
+      "text": "Nova York ( Estats Units ): la UNESCO aprova l' admissió de Palestina com a estat de ple dret a aquesta organització cultural.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_foods": {
+    "fruites": [
+      "poma Gala",
+      "poma Golden",
+      "figa",
+      "pera Williams"
+    ],
+    "hortalisses": [
+      "mongeta verda",
+      "enciam",
+      "tomàquet",
+      "porro",
+      "escarola"
+    ],
+    "pesca": [
+      "escórpora",
+      "sardina",
+      "bonítol"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "satsuma",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Ercolini",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "préssec",
+        "nectarina",
+        "figa",
+        "raïm"
+      ],
+      "hortalisses": [
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre",
+        "meló",
+        "síndria"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "sardina",
+        "calamar",
+        "bonítol",
+        "verat",
+        "lluç",
+        "escórpora"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-10-31T12:11:26+01:00"
+}
