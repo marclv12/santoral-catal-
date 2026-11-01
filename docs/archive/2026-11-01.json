@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-01",
+  "date_ca": "Diumenge, 1 de novembre de 2026",
+  "day_of_year": 305,
+  "days_remaining": 60,
+  "week": 44,
+  "location": "Barcelona",
+  "sunrise": "07:22",
+  "sunset": "17:46",
+  "moon_phase": "quart minvant",
+  "saints": [
+    "Santa Maria, Mare de DÃ©u",
+    "Sant Basili el Gran (330-379), bisbe de Cesarea de la CapadÃ²cia, i sant Gregori NacianzÃ¨ (330-390), bisbe de Constantinoble, doctors de l'EsglÃ©sia",
+    "Sant Anter, papa (grec, 235-236) i mr",
+    "Sant Rigobert, bisbe",
+    "Sant TelÃ¨sfor, papa (grec, 125-136) i mr",
+    "Sant Ramon de Penyafort (+1275), prev. dominicÃ, del PenedÃ¨s, patrÃ³ dels juristes i canonistes",
+    "Sant ApolÂ·linar, bisbe",
+    "Sant Eulogi de CÃ²rdova, prev. i mr. (859) mossÃ rab",
+    "Sant AgatÃ³, papa (siciliÃ, 678-681)",
+    "Sant Higini, papa (grec, 136-140) i mr",
+    "Sant Arcadi, mr",
+    "Sant Hilari (+367), bisbe de Poitiers i doctor de l'EsglÃ©sia"
+  ],
+  "saint_source": {
+    "name": "Santoral català — eCampmany",
+    "url": "https://www.ecampmany.com/santoral/",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1924,
+      "title": "Gelida : S'inaugura el Funicular de Gelida , que uneix el centre urbà amb l'estació de tren…",
+      "text": "Gelida : S'inaugura el Funicular de Gelida , que uneix el centre urbà amb l'estació de tren de la població, situada en una cota inferior.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 2003,
+      "title": "Madrid : la Casa Reial espanyola fa públic el compromís matrimonial del príncep Felip amb la…",
+      "text": "Madrid : la Casa Reial espanyola fa públic el compromís matrimonial del príncep Felip amb la periodista Letizia Ortiz.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1870,
+      "title": "Vaticà : El papa Pius IX excomunica els responsables de l'annexió de Roma al Regne d'Itàlia",
+      "text": "Vaticà : El papa Pius IX excomunica els responsables de l'annexió de Roma al Regne d'Itàlia.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1976,
+      "title": "Bujumbura , Burundi : cop d'estat incruent a Burundi : Jean-Baptiste Bagaza enderroca el…",
+      "text": "Bujumbura , Burundi : cop d'estat incruent a Burundi : Jean-Baptiste Bagaza enderroca el president Michel Micombero i pren el poder.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "pera Williams",
+      "clementina",
+      "taronja navel",
+      "pomes vermelles"
+    ],
+    "hortalisses": [
+      "pèsols",
+      "pebrot",
+      "all tendre",
+      "carbassó",
+      "espinacs"
+    ],
+    "pesca": [
+      "sípia",
+      "lluç",
+      "galera"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
+  },
+  "generated_at": "2026-11-01T13:00:01+01:00"
+}

@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-31",
-  "date_ca": "Dissabte, 31 de octubre de 2026",
-  "day_of_year": 304,
-  "days_remaining": 61,
+  "date": "2026-11-01",
+  "date_ca": "Diumenge, 1 de novembre de 2026",
+  "day_of_year": 305,
+  "days_remaining": 60,
   "week": 44,
   "location": "Barcelona",
-  "sunrise": "07:21",
-  "sunset": "17:47",
+  "sunrise": "07:22",
+  "sunset": "17:46",
   "moon_phase": "quart minvant",
   "saints": [
     "Santa Maria, Mare de DÃ©u",
@@ -29,60 +29,60 @@
   },
   "efemerides": [
     {
-      "year": 1713,
-      "title": "Cardona (el Bages ): Es trencà el Setge de Cardona en el marc de la Guerra dels catalans",
-      "text": "Cardona (el Bages ): Es trencà el Setge de Cardona en el marc de la Guerra dels catalans.",
+      "year": 1924,
+      "title": "Gelida : S'inaugura el Funicular de Gelida , que uneix el centre urbà amb l'estació de tren…",
+      "text": "Gelida : S'inaugura el Funicular de Gelida , que uneix el centre urbà amb l'estació de tren de la població, situada en una cota inferior.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 7
     },
     {
-      "year": 1978,
-      "title": "Madrid : la Constitució espanyola és aprovada en sessió conjunta de les Corts",
-      "text": "Madrid : la Constitució espanyola és aprovada en sessió conjunta de les Corts.",
+      "year": 2003,
+      "title": "Madrid : la Casa Reial espanyola fa públic el compromís matrimonial del príncep Felip amb la…",
+      "text": "Madrid : la Casa Reial espanyola fa públic el compromís matrimonial del príncep Felip amb la periodista Letizia Ortiz.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 12
+      "score": 7
     },
     {
-      "year": 1517,
-      "title": "Wittenberg (Sacre Imperi): Martí Luter exposa les 95 tesis on denuncia la falsedat de les…",
-      "text": "Wittenberg (Sacre Imperi): Martí Luter exposa les 95 tesis on denuncia la falsedat de les indulgències pontifícies.",
+      "year": 1870,
+      "title": "Vaticà : El papa Pius IX excomunica els responsables de l'annexió de Roma al Regne d'Itàlia",
+      "text": "Vaticà : El papa Pius IX excomunica els responsables de l'annexió de Roma al Regne d'Itàlia.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 6
+      "score": 7
     },
     {
-      "year": 2011,
-      "title": "Nova York ( Estats Units ): la UNESCO aprova l' admissió de Palestina com a estat de ple…",
-      "text": "Nova York ( Estats Units ): la UNESCO aprova l' admissió de Palestina com a estat de ple dret a aquesta organització cultural.",
+      "year": 1976,
+      "title": "Bujumbura , Burundi : cop d'estat incruent a Burundi : Jean-Baptiste Bagaza enderroca el…",
+      "text": "Bujumbura , Burundi : cop d'estat incruent a Burundi : Jean-Baptiste Bagaza enderroca el president Michel Micombero i pren el poder.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/31_de_octubre",
+      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 13
     }
   ],
   "scope_order": [
@@ -92,46 +92,43 @@
     "GLOBAL"
   ],
   "refrany": null,
-  "seasonal_note": "A l'octubre arriben les olives primerenques, els bolets i les feines de preparació de la terra.",
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "poma Gala",
-      "poma Golden",
-      "figa",
-      "pera Williams"
+      "pera Williams",
+      "clementina",
+      "taronja navel",
+      "pomes vermelles"
     ],
     "hortalisses": [
-      "mongeta verda",
-      "enciam",
-      "tomàquet",
-      "porro",
-      "escarola"
+      "pèsols",
+      "pebrot",
+      "all tendre",
+      "carbassó",
+      "espinacs"
     ],
     "pesca": [
-      "escórpora",
-      "sardina",
-      "bonítol"
+      "sípia",
+      "lluç",
+      "galera"
     ],
     "all": {
       "fruites": [
         "clementina",
-        "satsuma",
         "taronja navel",
         "poma Golden",
         "pomes vermelles",
+        "poma Fuji",
         "poma Reineta",
         "poma Gala",
         "pera Llimonera",
-        "pera Ercolini",
         "pera Williams",
         "pera Blanquilla",
         "pera Conference",
-        "préssec",
-        "nectarina",
-        "figa",
         "raïm"
       ],
       "hortalisses": [
+        "patata tardana",
         "ceba",
         "all tendre",
         "porro",
@@ -151,20 +148,15 @@
         "col",
         "coliflor",
         "bròquil",
-        "cogombre",
-        "meló",
-        "síndria"
+        "cogombre"
       ],
       "pesca": [
         "galera",
         "sípia",
         "llenguado",
-        "sardina",
         "calamar",
         "bonítol",
-        "verat",
-        "lluç",
-        "escórpora"
+        "lluç"
       ]
     },
     "source": {
@@ -175,9 +167,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Fuster",
-    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
-    "source": "Diccionari per a ociosos"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-10-31T12:11:26+01:00"
+  "generated_at": "2026-11-01T13:00:01+01:00"
 }
