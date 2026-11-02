@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-01",
-  "date_ca": "Diumenge, 1 de novembre de 2026",
-  "day_of_year": 305,
-  "days_remaining": 60,
-  "week": 44,
+  "date": "2026-11-02",
+  "date_ca": "Dilluns, 2 de novembre de 2026",
+  "day_of_year": 306,
+  "days_remaining": 59,
+  "week": 45,
   "location": "Barcelona",
-  "sunrise": "07:22",
-  "sunset": "17:46",
+  "sunrise": "07:24",
+  "sunset": "17:45",
   "moon_phase": "quart minvant",
   "saints": [
     "Santa Maria, Mare de DÃ©u",
@@ -29,60 +29,46 @@
   },
   "efemerides": [
     {
-      "year": 1924,
-      "title": "Gelida : S'inaugura el Funicular de Gelida , que uneix el centre urbà amb l'estació de tren…",
-      "text": "Gelida : S'inaugura el Funicular de Gelida , que uneix el centre urbà amb l'estació de tren de la població, situada en una cota inferior.",
+      "year": 2005,
+      "title": "Madrid : el Congrés dels Diputats d' Espanya aprova l'admissió a tràmit del nou Estatut…",
+      "text": "Madrid : el Congrés dels Diputats d' Espanya aprova l'admissió a tràmit del nou Estatut d'Autonomia per a Catalunya amb el suport de tots els grups excepte el PP , que el mateix dia presenta un recurs d'inconstitucionalitat.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 16
     },
     {
-      "year": 2003,
-      "title": "Madrid : la Casa Reial espanyola fa públic el compromís matrimonial del príncep Felip amb la…",
-      "text": "Madrid : la Casa Reial espanyola fa públic el compromís matrimonial del príncep Felip amb la periodista Letizia Ortiz.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 7
-    },
-    {
-      "year": 1870,
-      "title": "Vaticà : El papa Pius IX excomunica els responsables de l'annexió de Roma al Regne d'Itàlia",
-      "text": "Vaticà : El papa Pius IX excomunica els responsables de l'annexió de Roma al Regne d'Itàlia.",
+      "year": 1917,
+      "title": "Londres : el ministre Balfour hi fa pública la declaració que proclama el suport britànic…",
+      "text": "Londres : el ministre Balfour hi fa pública la declaració que proclama el suport britànic als assentaments jueus a Palestina ( Sionisme ).",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
       "verified": false,
       "origin": "automatic",
       "score": 7
     },
     {
-      "year": 1976,
-      "title": "Bujumbura , Burundi : cop d'estat incruent a Burundi : Jean-Baptiste Bagaza enderroca el…",
-      "text": "Bujumbura , Burundi : cop d'estat incruent a Burundi : Jean-Baptiste Bagaza enderroca el president Michel Micombero i pren el poder.",
+      "year": 1983,
+      "title": "Estats Units: El president Ronald Reagan signa un projecte de llei que crea Dia de Martin…",
+      "text": "Estats Units: El president Ronald Reagan signa un projecte de llei que crea Dia de Martin Luther King Jr.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/1_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 12
     }
   ],
   "scope_order": [
@@ -95,22 +81,22 @@
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
+      "pomes vermelles",
       "pera Williams",
-      "clementina",
-      "taronja navel",
-      "pomes vermelles"
+      "raïm",
+      "poma Fuji"
     ],
     "hortalisses": [
-      "pèsols",
-      "pebrot",
-      "all tendre",
-      "carbassó",
-      "espinacs"
+      "patata tardana",
+      "escarola",
+      "espinacs",
+      "api",
+      "ceba"
     ],
     "pesca": [
-      "sípia",
-      "lluç",
-      "galera"
+      "bonítol",
+      "galera",
+      "llenguado"
     ],
     "all": {
       "fruites": [
@@ -167,9 +153,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
   },
-  "generated_at": "2026-11-01T13:00:01+01:00"
+  "generated_at": "2026-11-02T14:48:50+01:00"
 }

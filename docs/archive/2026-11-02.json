@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-02",
+  "date_ca": "Dilluns, 2 de novembre de 2026",
+  "day_of_year": 306,
+  "days_remaining": 59,
+  "week": 45,
+  "location": "Barcelona",
+  "sunrise": "07:24",
+  "sunset": "17:45",
+  "moon_phase": "quart minvant",
+  "saints": [
+    "Santa Maria, Mare de DÃ©u",
+    "Sant Basili el Gran (330-379), bisbe de Cesarea de la CapadÃ²cia, i sant Gregori NacianzÃ¨ (330-390), bisbe de Constantinoble, doctors de l'EsglÃ©sia",
+    "Sant Anter, papa (grec, 235-236) i mr",
+    "Sant Rigobert, bisbe",
+    "Sant TelÃ¨sfor, papa (grec, 125-136) i mr",
+    "Sant Ramon de Penyafort (+1275), prev. dominicÃ, del PenedÃ¨s, patrÃ³ dels juristes i canonistes",
+    "Sant ApolÂ·linar, bisbe",
+    "Sant Eulogi de CÃ²rdova, prev. i mr. (859) mossÃ rab",
+    "Sant AgatÃ³, papa (siciliÃ, 678-681)",
+    "Sant Higini, papa (grec, 136-140) i mr",
+    "Sant Arcadi, mr",
+    "Sant Hilari (+367), bisbe de Poitiers i doctor de l'EsglÃ©sia"
+  ],
+  "saint_source": {
+    "name": "Santoral català — eCampmany",
+    "url": "https://www.ecampmany.com/santoral/",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2005,
+      "title": "Madrid : el Congrés dels Diputats d' Espanya aprova l'admissió a tràmit del nou Estatut…",
+      "text": "Madrid : el Congrés dels Diputats d' Espanya aprova l'admissió a tràmit del nou Estatut d'Autonomia per a Catalunya amb el suport de tots els grups excepte el PP , que el mateix dia presenta un recurs d'inconstitucionalitat.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    },
+    {
+      "year": 1917,
+      "title": "Londres : el ministre Balfour hi fa pública la declaració que proclama el suport britànic…",
+      "text": "Londres : el ministre Balfour hi fa pública la declaració que proclama el suport britànic als assentaments jueus a Palestina ( Sionisme ).",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1983,
+      "title": "Estats Units: El president Ronald Reagan signa un projecte de llei que crea Dia de Martin…",
+      "text": "Estats Units: El president Ronald Reagan signa un projecte de llei que crea Dia de Martin Luther King Jr.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 12
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "pomes vermelles",
+      "pera Williams",
+      "raïm",
+      "poma Fuji"
+    ],
+    "hortalisses": [
+      "patata tardana",
+      "escarola",
+      "espinacs",
+      "api",
+      "ceba"
+    ],
+    "pesca": [
+      "bonítol",
+      "galera",
+      "llenguado"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-11-02T14:48:50+01:00"
+}
