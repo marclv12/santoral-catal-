@@ -1,74 +1,65 @@
 {
-  "date": "2026-11-02",
-  "date_ca": "Dilluns, 2 de novembre de 2026",
-  "day_of_year": 306,
-  "days_remaining": 59,
+  "date": "2026-11-03",
+  "date_ca": "Dimarts, 3 de novembre de 2026",
+  "day_of_year": 307,
+  "days_remaining": 58,
   "week": 45,
   "location": "Barcelona",
-  "sunrise": "07:24",
-  "sunset": "17:45",
+  "sunrise": "07:25",
+  "sunset": "17:43",
   "moon_phase": "quart minvant",
   "saints": [
-    "Santa Maria, Mare de DÃ©u",
-    "Sant Basili el Gran (330-379), bisbe de Cesarea de la CapadÃ²cia, i sant Gregori NacianzÃ¨ (330-390), bisbe de Constantinoble, doctors de l'EsglÃ©sia",
-    "Sant Anter, papa (grec, 235-236) i mr",
-    "Sant Rigobert, bisbe",
-    "Sant TelÃ¨sfor, papa (grec, 125-136) i mr",
-    "Sant Ramon de Penyafort (+1275), prev. dominicÃ, del PenedÃ¨s, patrÃ³ dels juristes i canonistes",
-    "Sant ApolÂ·linar, bisbe",
-    "Sant Eulogi de CÃ²rdova, prev. i mr. (859) mossÃ rab",
-    "Sant AgatÃ³, papa (siciliÃ, 678-681)",
-    "Sant Higini, papa (grec, 136-140) i mr",
-    "Sant Arcadi, mr",
-    "Sant Hilari (+367), bisbe de Poitiers i doctor de l'EsglÃ©sia"
+    "Sant Ermengol Bisbe d'Urgell",
+    "Sant Pere Almató Prevere i màrtir",
+    "Sant Martí de Porres Religiós"
   ],
   "saint_source": {
-    "name": "Santoral català — eCampmany",
-    "url": "https://www.ecampmany.com/santoral/",
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/3",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 2005,
-      "title": "Madrid : el Congrés dels Diputats d' Espanya aprova l'admissió a tràmit del nou Estatut…",
-      "text": "Madrid : el Congrés dels Diputats d' Espanya aprova l'admissió a tràmit del nou Estatut d'Autonomia per a Catalunya amb el suport de tots els grups excepte el PP , que el mateix dia presenta un recurs d'inconstitucionalitat.",
+      "year": 1450,
+      "title": "Alfons el Magnànim funda l' Estudi General de Barcelona , predecessor de la Universitat de…",
+      "text": "Alfons el Magnànim funda l' Estudi General de Barcelona , predecessor de la Universitat de Barcelona.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 2,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/3_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 16
+      "score": 4
     },
     {
-      "year": 1917,
-      "title": "Londres : el ministre Balfour hi fa pública la declaració que proclama el suport britànic…",
-      "text": "Londres : el ministre Balfour hi fa pública la declaració que proclama el suport britànic als assentaments jueus a Palestina ( Sionisme ).",
+      "year": 1935,
+      "title": "Torna de l'exili el rei Jordi II de Grècia",
+      "text": "Torna de l'exili el rei Jordi II de Grècia.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/3_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 8
     },
     {
-      "year": 1983,
-      "title": "Estats Units: El president Ronald Reagan signa un projecte de llei que crea Dia de Martin…",
-      "text": "Estats Units: El president Ronald Reagan signa un projecte de llei que crea Dia de Martin Luther King Jr.",
+      "year": 1903,
+      "title": "Esperonat pels Estats Units , Panamà s'autoproclama independent de Colòmbia",
+      "text": "Esperonat pels Estats Units , Panamà s'autoproclama independent de Colòmbia.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/2_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/3_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 12
+      "score": 10
     }
   ],
   "scope_order": [
@@ -81,20 +72,20 @@
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
+      "poma Golden",
       "pomes vermelles",
       "pera Williams",
-      "raïm",
-      "poma Fuji"
+      "poma Gala"
     ],
     "hortalisses": [
-      "patata tardana",
-      "escarola",
+      "bleda",
+      "tomàquet",
+      "pèsols",
       "espinacs",
-      "api",
-      "ceba"
+      "pastanaga"
     ],
     "pesca": [
-      "bonítol",
+      "calamar",
       "galera",
       "llenguado"
     ],
@@ -153,9 +144,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Salvador Espriu",
-    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
-    "source": "Inici de càntic en el temple"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-11-02T14:48:50+01:00"
+  "generated_at": "2026-11-03T13:58:44+01:00"
 }
