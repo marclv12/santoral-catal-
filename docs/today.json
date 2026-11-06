@@ -1,63 +1,78 @@
 {
-  "date": "2026-11-05",
-  "date_ca": "Dijous, 5 de novembre de 2026",
-  "day_of_year": 309,
-  "days_remaining": 56,
+  "date": "2026-11-06",
+  "date_ca": "Divendres, 6 de novembre de 2026",
+  "day_of_year": 310,
+  "days_remaining": 55,
   "week": 45,
   "location": "Barcelona",
-  "sunrise": "07:27",
-  "sunset": "17:41",
+  "sunrise": "07:28",
+  "sunset": "17:40",
   "moon_phase": "minvant",
   "saints": [
-    "Sant Zacaries i Santa Elisabet"
+    "Sant Sever Bisbe i màrtir",
+    "Sant Lleonard Anacoreta"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/5",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/6",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1926,
-      "title": "Observatori Fabra , Barcelona : l'astrònom català Josep Comas i Solà descobreix el cometa…",
-      "text": "Observatori Fabra , Barcelona : l'astrònom català Josep Comas i Solà descobreix el cometa 32P/Comas Solà.",
+      "year": 1264,
+      "title": "El rei Jaume I inicia la conquesta del regne sarraí de Múrcia",
+      "text": "El rei Jaume I inicia la conquesta del regne sarraí de Múrcia.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/5_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 9
     },
     {
-      "year": 1916,
-      "title": "Els emperadors d' Alemanya i Àustria-Hongria proclamen el regne de Polònia",
-      "text": "Els emperadors d' Alemanya i Àustria-Hongria proclamen el regne de Polònia.",
+      "year": 1813,
+      "title": "Chilpancingo ( estat de Guerrero , Mèxic ): els diputats del Congrés de Mèxic van signar el…",
+      "text": "Chilpancingo ( estat de Guerrero , Mèxic ): els diputats del Congrés de Mèxic van signar el Acto Solemne de la Declaración de la Independència de la América Septentrional després que s'aprovés al Congrés de Chilpancingo del 13 de setembre s'hagués aprovat la independència de Mèxic d'Espanya.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 14
+    },
+    {
+      "year": 1918,
+      "title": "Polònia : es proclama la Segona República Polonesa",
+      "text": "Polònia : es proclama la Segona República Polonesa.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/5_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 9
     },
     {
-      "year": 1935,
-      "title": "els Estats Units : Parker Brothers llança al mercat el joc Monopoly",
-      "text": "els Estats Units : Parker Brothers llança al mercat el joc Monopoly.",
+      "year": 1792,
+      "title": "Jemappes ( Hainaut , Valònia ): l'exèrcit revolucionari francès venç en la batalla de…",
+      "text": "Jemappes ( Hainaut , Valònia ): l'exèrcit revolucionari francès venç en la batalla de Jemappes en la guerra de la Primera Coalició.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/5_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 10
     }
   ],
   "scope_order": [
@@ -72,20 +87,20 @@
     "fruites": [
       "pomes vermelles",
       "clementina",
-      "taronja navel",
-      "poma Reineta"
+      "pera Llimonera",
+      "poma Golden"
     ],
     "hortalisses": [
-      "mongeta verda",
-      "escarola",
-      "api",
-      "pastanaga",
-      "bròquil"
+      "bleda",
+      "ceba",
+      "carbassó",
+      "coliflor",
+      "espinacs"
     ],
     "pesca": [
-      "sípia",
-      "llenguado",
-      "galera"
+      "bonítol",
+      "galera",
+      "lluç"
     ],
     "all": {
       "fruites": [
@@ -142,9 +157,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
   },
-  "generated_at": "2026-11-05T14:28:23+01:00"
+  "generated_at": "2026-11-06T14:12:07+01:00"
 }
