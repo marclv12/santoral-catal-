@@ -1,78 +1,68 @@
 {
-  "date": "2026-11-06",
-  "date_ca": "Divendres, 6 de novembre de 2026",
-  "day_of_year": 310,
-  "days_remaining": 55,
+  "date": "2026-11-07",
+  "date_ca": "Dissabte, 7 de novembre de 2026",
+  "day_of_year": 311,
+  "days_remaining": 54,
   "week": 45,
   "location": "Barcelona",
-  "sunrise": "07:28",
-  "sunset": "17:40",
-  "moon_phase": "minvant",
+  "sunrise": "07:30",
+  "sunset": "17:39",
+  "moon_phase": "lluna nova",
   "saints": [
-    "Sant Sever Bisbe i màrtir",
-    "Sant Lleonard Anacoreta"
+    "Beat Francesc Palau i Quer Prevere",
+    "Santa Fara Abadessa",
+    "Sant Wilibrord Bisbe",
+    "Santa Carina Verge i màrtir"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/6",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/7",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1264,
-      "title": "El rei Jaume I inicia la conquesta del regne sarraí de Múrcia",
-      "text": "El rei Jaume I inicia la conquesta del regne sarraí de Múrcia.",
+      "id": "cat-1705-carles-iii-jura-constitucions",
+      "year": 1705,
       "scope": "CAT",
-      "territory": "Països Catalans",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 9
+      "territory": "Principat de Catalunya",
+      "category": "institucions",
+      "importance": 5,
+      "featured": true,
+      "title": "Carles III jura les constitucions catalanes",
+      "text": "l'arxiduc Carles d'Àustria jurà les constitucions catalanes a Barcelona i fou reconegut com a comte de Barcelona i rei pels austracistes.",
+      "source_name": "Memorial 1714",
+      "source_url": "https://www.memorial1714.cat/arxius/Corts-Generals-de-Catalunya.pdf",
+      "verified": true,
+      "origin": "curated"
     },
     {
-      "year": 1813,
-      "title": "Chilpancingo ( estat de Guerrero , Mèxic ): els diputats del Congrés de Mèxic van signar el…",
-      "text": "Chilpancingo ( estat de Guerrero , Mèxic ): els diputats del Congrés de Mèxic van signar el Acto Solemne de la Declaración de la Independència de la América Septentrional després que s'aprovés al Congrés de Chilpancingo del 13 de setembre s'hagués aprovat la independència de Mèxic d'Espanya.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 4,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 14
-    },
-    {
-      "year": 1918,
-      "title": "Polònia : es proclama la Segona República Polonesa",
-      "text": "Polònia : es proclama la Segona República Polonesa.",
+      "id": "eur-1917-revolucio-octubre",
+      "year": 1917,
       "scope": "EUR",
-      "territory": "Europa",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 9
+      "territory": "Rússia",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Revolució d'Octubre",
+      "text": "els bolxevics prengueren els principals centres de poder de Petrograd segons el calendari gregorià, iniciant un canvi polític de transcendència mundial.",
+      "source_name": "Encyclopaedia Britannica",
+      "source_url": "https://www.britannica.com/event/Russian-Revolution",
+      "verified": true,
+      "origin": "curated"
     },
     {
-      "year": 1792,
-      "title": "Jemappes ( Hainaut , Valònia ): l'exèrcit revolucionari francès venç en la batalla de…",
-      "text": "Jemappes ( Hainaut , Valònia ): l'exèrcit revolucionari francès venç en la batalla de Jemappes en la guerra de la Primera Coalició.",
+      "year": 1917,
+      "title": "Imperi Rus : hi comença la revolució comunista",
+      "text": "Imperi Rus : hi comença la revolució comunista.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/6_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/7_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 9
     }
   ],
   "scope_order": [
@@ -81,26 +71,26 @@
     "EUR",
     "GLOBAL"
   ],
-  "refrany": null,
+  "refrany": "Novembre humit, any de profit.",
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "pomes vermelles",
-      "clementina",
-      "pera Llimonera",
-      "poma Golden"
+      "pera Williams",
+      "poma Golden",
+      "poma Reineta",
+      "pera Conference"
     ],
     "hortalisses": [
-      "bleda",
-      "ceba",
-      "carbassó",
-      "coliflor",
-      "espinacs"
+      "pastanaga",
+      "albergínia",
+      "api",
+      "espinacs",
+      "pèsols"
     ],
     "pesca": [
-      "bonítol",
       "galera",
-      "lluç"
+      "calamar",
+      "llenguado"
     ],
     "all": {
       "fruites": [
@@ -157,9 +147,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Salvador Espriu",
-    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
-    "source": "Inici de càntic en el temple"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-11-06T14:12:07+01:00"
+  "generated_at": "2026-11-07T12:54:17+01:00"
 }
