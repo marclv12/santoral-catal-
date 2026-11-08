@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-08",
+  "date_ca": "Diumenge, 8 de novembre de 2026",
+  "day_of_year": 312,
+  "days_remaining": 53,
+  "week": 45,
+  "location": "Barcelona",
+  "sunrise": "07:31",
+  "sunset": "17:38",
+  "moon_phase": "lluna nova",
+  "saints": [
+    "Sant Willehad Bisbe"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/8",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1889,
+      "title": "Barcelona : S'estrena a Catalunya l'òpera Tristan und Isolde , de Wagner , amb la qual…",
+      "text": "Barcelona : S'estrena a Catalunya l'òpera Tristan und Isolde , de Wagner , amb la qual s'inaugurava la temporada 1889-1890 del Gran Teatre del Liceu.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1576,
+      "title": "Pacificació de Gant , tractat de les províncies dels Països Baixos i condicions per acceptar…",
+      "text": "Pacificació de Gant , tractat de les províncies dels Països Baixos i condicions per acceptar la pau amb la corona espanyola, en el marc de la Guerra dels Vuitanta Anys.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    },
+    {
+      "year": 1923,
+      "title": "Putsch de Múnic : el líder del NSDAP , Adolf Hitler , el militar Erich Ludendorff i altres…",
+      "text": "Putsch de Múnic : el líder del NSDAP , Adolf Hitler , el militar Erich Ludendorff i altres militants nazis fan un cop d'estat fallit per prendre el poder a Múnic , Baviera i Alemanya.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1519,
+      "title": "Hernán Cortés arriba a les portes de Tenochtitlán ( Mèxic ) i l' emperador Moctezuma II surt…",
+      "text": "Hernán Cortés arriba a les portes de Tenochtitlán ( Mèxic ) i l' emperador Moctezuma II surt a rebre'l.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "poma Reineta",
+      "clementina",
+      "pera Blanquilla",
+      "pomes vermelles"
+    ],
+    "hortalisses": [
+      "porro",
+      "tomàquet",
+      "pèsols",
+      "bròquil",
+      "pastanaga"
+    ],
+    "pesca": [
+      "bonítol",
+      "sípia",
+      "lluç"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-11-08T13:10:04+01:00"
+}
