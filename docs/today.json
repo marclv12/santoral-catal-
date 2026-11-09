@@ -1,77 +1,64 @@
 {
-  "date": "2026-11-08",
-  "date_ca": "Diumenge, 8 de novembre de 2026",
-  "day_of_year": 312,
-  "days_remaining": 53,
-  "week": 45,
+  "date": "2026-11-09",
+  "date_ca": "Dilluns, 9 de novembre de 2026",
+  "day_of_year": 313,
+  "days_remaining": 52,
+  "week": 46,
   "location": "Barcelona",
-  "sunrise": "07:31",
-  "sunset": "17:38",
+  "sunrise": "07:32",
+  "sunset": "17:37",
   "moon_phase": "lluna nova",
   "saints": [
-    "Sant Willehad Bisbe"
+    "Sant Teodor"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/8",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/9",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1889,
-      "title": "Barcelona : S'estrena a Catalunya l'òpera Tristan und Isolde , de Wagner , amb la qual…",
-      "text": "Barcelona : S'estrena a Catalunya l'òpera Tristan und Isolde , de Wagner , amb la qual s'inaugurava la temporada 1889-1890 del Gran Teatre del Liceu.",
+      "year": 2015,
+      "title": "Catalunya : el Parlament de Catalunya aprova per majoria absoluta la declaració d'inici del…",
+      "text": "Catalunya : el Parlament de Catalunya aprova per majoria absoluta la declaració d'inici del procés cap a la independència.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 7
-    },
-    {
-      "year": 1576,
-      "title": "Pacificació de Gant , tractat de les províncies dels Països Baixos i condicions per acceptar…",
-      "text": "Pacificació de Gant , tractat de les províncies dels Països Baixos i condicions per acceptar la pau amb la corona espanyola, en el marc de la Guerra dels Vuitanta Anys.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/9_de_novembre",
       "verified": false,
       "origin": "automatic",
       "score": 13
     },
     {
-      "year": 1923,
-      "title": "Putsch de Múnic : el líder del NSDAP , Adolf Hitler , el militar Erich Ludendorff i altres…",
-      "text": "Putsch de Múnic : el líder del NSDAP , Adolf Hitler , el militar Erich Ludendorff i altres militants nazis fan un cop d'estat fallit per prendre el poder a Múnic , Baviera i Alemanya.",
+      "id": "eur-1989-caiguda-mur-berlin",
+      "year": 1989,
       "scope": "EUR",
-      "territory": "Europa",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 10
+      "territory": "Alemanya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Caiguda del mur de Berlín",
+      "text": "l'obertura dels passos fronterers del mur de Berlín simbolitzà l'esfondrament dels règims comunistes de l'Europa central i oriental.",
+      "source_name": "Govern Federal d'Alemanya",
+      "source_url": "https://www.bundesregierung.de/breg-en/issues/german-unity/fall-of-the-wall-1989-441526",
+      "verified": true,
+      "origin": "curated"
     },
     {
-      "year": 1519,
-      "title": "Hernán Cortés arriba a les portes de Tenochtitlán ( Mèxic ) i l' emperador Moctezuma II surt…",
-      "text": "Hernán Cortés arriba a les portes de Tenochtitlán ( Mèxic ) i l' emperador Moctezuma II surt a rebre'l.",
+      "year": 1917,
+      "title": "Kobarid , Eslovènia : Final de la batalla de Caporetto o la 12a batalla de l'Isonzo , també…",
+      "text": "Kobarid , Eslovènia : Final de la batalla de Caporetto o la 12a batalla de l'Isonzo , també coneguda com a batalla de Karfreit pels Imperis Centrals , durant la Primera Guerra Mundial.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/8_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/9_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 16
     }
   ],
   "scope_order": [
@@ -80,26 +67,26 @@
     "EUR",
     "GLOBAL"
   ],
-  "refrany": null,
+  "refrany": "Pel novembre, vi per vendre.",
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "poma Reineta",
-      "clementina",
-      "pera Blanquilla",
-      "pomes vermelles"
+      "pomes vermelles",
+      "taronja navel",
+      "pera Conference",
+      "poma Golden"
     ],
     "hortalisses": [
-      "porro",
-      "tomàquet",
-      "pèsols",
-      "bròquil",
-      "pastanaga"
+      "all tendre",
+      "pebrot",
+      "ceba",
+      "escarola",
+      "coliflor"
     ],
     "pesca": [
-      "bonítol",
       "sípia",
-      "lluç"
+      "bonítol",
+      "llenguado"
     ],
     "all": {
       "fruites": [
@@ -156,9 +143,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Salvador Espriu",
-    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
-    "source": "Inici de càntic en el temple"
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
   },
-  "generated_at": "2026-11-08T13:10:04+01:00"
+  "generated_at": "2026-11-09T15:18:13+01:00"
 }

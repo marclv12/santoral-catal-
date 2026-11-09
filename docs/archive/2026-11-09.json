@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-09",
+  "date_ca": "Dilluns, 9 de novembre de 2026",
+  "day_of_year": 313,
+  "days_remaining": 52,
+  "week": 46,
+  "location": "Barcelona",
+  "sunrise": "07:32",
+  "sunset": "17:37",
+  "moon_phase": "lluna nova",
+  "saints": [
+    "Sant Teodor"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/9",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2015,
+      "title": "Catalunya : el Parlament de Catalunya aprova per majoria absoluta la declaració d'inici del…",
+      "text": "Catalunya : el Parlament de Catalunya aprova per majoria absoluta la declaració d'inici del procés cap a la independència.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/9_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    },
+    {
+      "id": "eur-1989-caiguda-mur-berlin",
+      "year": 1989,
+      "scope": "EUR",
+      "territory": "Alemanya",
+      "category": "historia_politica",
+      "importance": 5,
+      "featured": true,
+      "title": "Caiguda del mur de Berlín",
+      "text": "l'obertura dels passos fronterers del mur de Berlín simbolitzà l'esfondrament dels règims comunistes de l'Europa central i oriental.",
+      "source_name": "Govern Federal d'Alemanya",
+      "source_url": "https://www.bundesregierung.de/breg-en/issues/german-unity/fall-of-the-wall-1989-441526",
+      "verified": true,
+      "origin": "curated"
+    },
+    {
+      "year": 1917,
+      "title": "Kobarid , Eslovènia : Final de la batalla de Caporetto o la 12a batalla de l'Isonzo , també…",
+      "text": "Kobarid , Eslovènia : Final de la batalla de Caporetto o la 12a batalla de l'Isonzo , també coneguda com a batalla de Karfreit pels Imperis Centrals , durant la Primera Guerra Mundial.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/9_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": "Pel novembre, vi per vendre.",
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "pomes vermelles",
+      "taronja navel",
+      "pera Conference",
+      "poma Golden"
+    ],
+    "hortalisses": [
+      "all tendre",
+      "pebrot",
+      "ceba",
+      "escarola",
+      "coliflor"
+    ],
+    "pesca": [
+      "sípia",
+      "bonítol",
+      "llenguado"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
+  },
+  "generated_at": "2026-11-09T15:18:13+01:00"
+}
