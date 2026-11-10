@@ -1,64 +1,77 @@
 {
-  "date": "2026-11-09",
-  "date_ca": "Dilluns, 9 de novembre de 2026",
-  "day_of_year": 313,
-  "days_remaining": 52,
+  "date": "2026-11-10",
+  "date_ca": "Dimarts, 10 de novembre de 2026",
+  "day_of_year": 314,
+  "days_remaining": 51,
   "week": 46,
   "location": "Barcelona",
-  "sunrise": "07:32",
-  "sunset": "17:37",
+  "sunrise": "07:33",
+  "sunset": "17:36",
   "moon_phase": "lluna nova",
   "saints": [
-    "Sant Teodor"
+    "Sant Lleó el Gran, Papa i doctor"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/9",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/10",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 2015,
-      "title": "Catalunya : el Parlament de Catalunya aprova per majoria absoluta la declaració d'inici del…",
-      "text": "Catalunya : el Parlament de Catalunya aprova per majoria absoluta la declaració d'inici del procés cap a la independència.",
+      "year": 1907,
+      "title": "Barcelona : Fundació del Club Natació Barcelona , degà de la natació| espanyola, fundador de…",
+      "text": "Barcelona : Fundació del Club Natació Barcelona , degà de la natació| espanyola, fundador de les federacions catalana i espanyola i inspirador del Comitè Olímpic Espanyol.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/9_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 13
+      "score": 7
     },
     {
-      "id": "eur-1989-caiguda-mur-berlin",
-      "year": 1989,
+      "year": 1808,
+      "title": "Gamonal ( Província de Burgos , Castella i Lleó ): després de guanyar en la batalla de…",
+      "text": "Gamonal ( Província de Burgos , Castella i Lleó ): després de guanyar en la batalla de Gamonal Napoleó Bonaparte va fer de Burgos la seva capital fins a ocupar Madrid durant la Guerra del Francès.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1862,
+      "title": "Sant Petersburg , Rússia : Estrena de La forza del destino ( La força del destí ), òpera en…",
+      "text": "Sant Petersburg , Rússia : Estrena de La forza del destino ( La força del destí ), òpera en quatre actes de Giuseppe Verdi.",
       "scope": "EUR",
-      "territory": "Alemanya",
-      "category": "historia_politica",
-      "importance": 5,
-      "featured": true,
-      "title": "Caiguda del mur de Berlín",
-      "text": "l'obertura dels passos fronterers del mur de Berlín simbolitzà l'esfondrament dels règims comunistes de l'Europa central i oriental.",
-      "source_name": "Govern Federal d'Alemanya",
-      "source_url": "https://www.bundesregierung.de/breg-en/issues/german-unity/fall-of-the-wall-1989-441526",
-      "verified": true,
-      "origin": "curated"
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
     },
     {
-      "year": 1917,
-      "title": "Kobarid , Eslovènia : Final de la batalla de Caporetto o la 12a batalla de l'Isonzo , també…",
-      "text": "Kobarid , Eslovènia : Final de la batalla de Caporetto o la 12a batalla de l'Isonzo , també coneguda com a batalla de Karfreit pels Imperis Centrals , durant la Primera Guerra Mundial.",
+      "year": 1969,
+      "title": "Estats Units : primera emissió de l'educativa sèrie de televisió Barri Sèsam",
+      "text": "Estats Units : primera emissió de l'educativa sèrie de televisió Barri Sèsam.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/9_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 16
+      "score": 7
     }
   ],
   "scope_order": [
@@ -67,26 +80,26 @@
     "EUR",
     "GLOBAL"
   ],
-  "refrany": "Pel novembre, vi per vendre.",
+  "refrany": null,
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "pomes vermelles",
       "taronja navel",
-      "pera Conference",
-      "poma Golden"
+      "raïm",
+      "poma Golden",
+      "poma Gala"
     ],
     "hortalisses": [
-      "all tendre",
-      "pebrot",
-      "ceba",
-      "escarola",
-      "coliflor"
+      "api",
+      "espinacs",
+      "bròquil",
+      "coliflor",
+      "albergínia"
     ],
     "pesca": [
-      "sípia",
+      "llenguado",
       "bonítol",
-      "llenguado"
+      "calamar"
     ],
     "all": {
       "fruites": [
@@ -147,5 +160,5 @@
     "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
     "source": "La sardana"
   },
-  "generated_at": "2026-11-09T15:18:13+01:00"
+  "generated_at": "2026-11-10T14:44:38+01:00"
 }

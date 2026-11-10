@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-10",
+  "date_ca": "Dimarts, 10 de novembre de 2026",
+  "day_of_year": 314,
+  "days_remaining": 51,
+  "week": 46,
+  "location": "Barcelona",
+  "sunrise": "07:33",
+  "sunset": "17:36",
+  "moon_phase": "lluna nova",
+  "saints": [
+    "Sant Lleó el Gran, Papa i doctor"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/10",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 1907,
+      "title": "Barcelona : Fundació del Club Natació Barcelona , degà de la natació| espanyola, fundador de…",
+      "text": "Barcelona : Fundació del Club Natació Barcelona , degà de la natació| espanyola, fundador de les federacions catalana i espanyola i inspirador del Comitè Olímpic Espanyol.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1808,
+      "title": "Gamonal ( Província de Burgos , Castella i Lleó ): després de guanyar en la batalla de…",
+      "text": "Gamonal ( Província de Burgos , Castella i Lleó ): després de guanyar en la batalla de Gamonal Napoleó Bonaparte va fer de Burgos la seva capital fins a ocupar Madrid durant la Guerra del Francès.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1862,
+      "title": "Sant Petersburg , Rússia : Estrena de La forza del destino ( La força del destí ), òpera en…",
+      "text": "Sant Petersburg , Rússia : Estrena de La forza del destino ( La força del destí ), òpera en quatre actes de Giuseppe Verdi.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 1969,
+      "title": "Estats Units : primera emissió de l'educativa sèrie de televisió Barri Sèsam",
+      "text": "Estats Units : primera emissió de l'educativa sèrie de televisió Barri Sèsam.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "taronja navel",
+      "raïm",
+      "poma Golden",
+      "poma Gala"
+    ],
+    "hortalisses": [
+      "api",
+      "espinacs",
+      "bròquil",
+      "coliflor",
+      "albergínia"
+    ],
+    "pesca": [
+      "llenguado",
+      "bonítol",
+      "calamar"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
+  },
+  "generated_at": "2026-11-10T14:44:38+01:00"
+}
