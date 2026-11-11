@@ -1,77 +1,63 @@
 {
-  "date": "2026-11-10",
-  "date_ca": "Dimarts, 10 de novembre de 2026",
-  "day_of_year": 314,
-  "days_remaining": 51,
+  "date": "2026-11-11",
+  "date_ca": "Dimecres, 11 de novembre de 2026",
+  "day_of_year": 315,
+  "days_remaining": 50,
   "week": 46,
   "location": "Barcelona",
-  "sunrise": "07:33",
-  "sunset": "17:36",
-  "moon_phase": "lluna nova",
+  "sunrise": "07:34",
+  "sunset": "17:35",
+  "moon_phase": "creixent",
   "saints": [
-    "Sant Lleó el Gran, Papa i doctor"
+    "Sant Martí de Tours Bisbe"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/10",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/11",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1907,
-      "title": "Barcelona : Fundació del Club Natació Barcelona , degà de la natació| espanyola, fundador de…",
-      "text": "Barcelona : Fundació del Club Natació Barcelona , degà de la natació| espanyola, fundador de les federacions catalana i espanyola i inspirador del Comitè Olímpic Espanyol.",
+      "year": null,
+      "title": "2004 , Barcelona : el Parlament de Catalunya aprova una proposició no de llei que demana al…",
+      "text": "2004 , Barcelona : el Parlament de Catalunya aprova una proposició no de llei que demana al Govern Espanyol « respecte» a les decisions de les federacions esportives, dies abans de la cita de Fresno (Califòrnia) , on s'haurà de decidir sobre el reconeixement de la selecció catalana d'hoquei.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 16
     },
     {
-      "year": 1808,
-      "title": "Gamonal ( Província de Burgos , Castella i Lleó ): després de guanyar en la batalla de…",
-      "text": "Gamonal ( Província de Burgos , Castella i Lleó ): després de guanyar en la batalla de Gamonal Napoleó Bonaparte va fer de Burgos la seva capital fins a ocupar Madrid durant la Guerra del Francès.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 10
-    },
-    {
-      "year": 1862,
-      "title": "Sant Petersburg , Rússia : Estrena de La forza del destino ( La força del destí ), òpera en…",
-      "text": "Sant Petersburg , Rússia : Estrena de La forza del destino ( La força del destí ), òpera en quatre actes de Giuseppe Verdi.",
+      "year": 1975,
+      "title": "Angola es declara independent de Portugal",
+      "text": "Angola es declara independent de Portugal.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 2,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 4
+      "score": 3
     },
     {
-      "year": 1969,
-      "title": "Estats Units : primera emissió de l'educativa sèrie de televisió Barri Sèsam",
-      "text": "Estats Units : primera emissió de l'educativa sèrie de televisió Barri Sèsam.",
+      "year": 1918,
+      "title": "L' Armistici de Compiègne posa fi a la Primera Guerra Mundial",
+      "text": "L' Armistici de Compiègne posa fi a la Primera Guerra Mundial.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/10_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 7
+      "score": 6
     }
   ],
   "scope_order": [
@@ -84,22 +70,22 @@
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "taronja navel",
+      "pera Llimonera",
       "raïm",
-      "poma Golden",
-      "poma Gala"
+      "taronja navel",
+      "poma Reineta"
     ],
     "hortalisses": [
-      "api",
-      "espinacs",
+      "escarola",
       "bròquil",
-      "coliflor",
-      "albergínia"
+      "tomàquet",
+      "carxofa",
+      "api"
     ],
     "pesca": [
-      "llenguado",
       "bonítol",
-      "calamar"
+      "llenguado",
+      "sípia"
     ],
     "all": {
       "fruites": [
@@ -156,9 +142,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-11-10T14:44:38+01:00"
+  "generated_at": "2026-11-11T13:55:52+01:00"
 }

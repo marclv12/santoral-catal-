@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-11",
+  "date_ca": "Dimecres, 11 de novembre de 2026",
+  "day_of_year": 315,
+  "days_remaining": 50,
+  "week": 46,
+  "location": "Barcelona",
+  "sunrise": "07:34",
+  "sunset": "17:35",
+  "moon_phase": "creixent",
+  "saints": [
+    "Sant Martí de Tours Bisbe"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/11",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": null,
+      "title": "2004 , Barcelona : el Parlament de Catalunya aprova una proposició no de llei que demana al…",
+      "text": "2004 , Barcelona : el Parlament de Catalunya aprova una proposició no de llei que demana al Govern Espanyol « respecte» a les decisions de les federacions esportives, dies abans de la cita de Fresno (Califòrnia) , on s'haurà de decidir sobre el reconeixement de la selecció catalana d'hoquei.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    },
+    {
+      "year": 1975,
+      "title": "Angola es declara independent de Portugal",
+      "text": "Angola es declara independent de Portugal.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 3
+    },
+    {
+      "year": 1918,
+      "title": "L' Armistici de Compiègne posa fi a la Primera Guerra Mundial",
+      "text": "L' Armistici de Compiègne posa fi a la Primera Guerra Mundial.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/11_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 6
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "pera Llimonera",
+      "raïm",
+      "taronja navel",
+      "poma Reineta"
+    ],
+    "hortalisses": [
+      "escarola",
+      "bròquil",
+      "tomàquet",
+      "carxofa",
+      "api"
+    ],
+    "pesca": [
+      "bonítol",
+      "llenguado",
+      "sípia"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-11-11T13:55:52+01:00"
+}
