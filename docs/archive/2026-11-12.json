@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-12",
+  "date_ca": "Dijous, 12 de novembre de 2026",
+  "day_of_year": 316,
+  "days_remaining": 49,
+  "week": 46,
+  "location": "Barcelona",
+  "sunrise": "07:36",
+  "sunset": "17:34",
+  "moon_phase": "creixent",
+  "saints": [
+    "Sant Josafat Bisbe i màrtir"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/12",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": null,
+      "title": "2004 , Miravet , (la Ribera d'Ebre ): els líders dels partits parlamentaris catalans s'hi…",
+      "text": "2004 , Miravet , (la Ribera d'Ebre ): els líders dels partits parlamentaris catalans s'hi reuneixen per preparar la redacció del nou Estatut de Catalunya.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    },
+    {
+      "year": null,
+      "title": "1810 , Villel ( Comunitat de Terol , Aragó ): l'exèrcit napoleònic va guanyar l' Acció de la…",
+      "text": "1810 , Villel ( Comunitat de Terol , Aragó ): l'exèrcit napoleònic va guanyar l' Acció de la Fuensanta durant la guerra del Francès i van saquejar el santuari.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": null,
+      "title": "954 , Reims ( Regne Franc Occidental )ː coronació de Lotari I , rei dels francs",
+      "text": "954 , Reims ( Regne Franc Occidental )ː coronació de Lotari I , rei dels francs.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": null,
+      "title": "2015 , Beirut ( Líban )ː Atemptat d'Estat Islàmic que causa 43 morts i més de 230 ferits",
+      "text": "2015 , Beirut ( Líban )ː Atemptat d'Estat Islàmic que causa 43 morts i més de 230 ferits.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/12_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "poma Reineta",
+      "clementina",
+      "taronja navel",
+      "poma Golden"
+    ],
+    "hortalisses": [
+      "pebrot",
+      "espinacs",
+      "enciam",
+      "ceba",
+      "tomàquet"
+    ],
+    "pesca": [
+      "galera",
+      "llenguado",
+      "sípia"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Maragall",
+    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
+    "source": "La sardana"
+  },
+  "generated_at": "2026-11-12T14:57:56+01:00"
+}
