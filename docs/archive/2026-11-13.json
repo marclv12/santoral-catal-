@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-13",
+  "date_ca": "Divendres, 13 de novembre de 2026",
+  "day_of_year": 317,
+  "days_remaining": 48,
+  "week": 46,
+  "location": "Barcelona",
+  "sunrise": "07:37",
+  "sunset": "17:33",
+  "moon_phase": "creixent",
+  "saints": [
+    "Sant Leandre Bisbe",
+    "Sant Eugeni Bisbe",
+    "Sant Dídac d'Alcalà Religiós"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/13",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": null,
+      "title": "2003 , Barcelona: En un multitudinari míting al Palau de Sant Jordi de la campanya electoral…",
+      "text": "2003 , Barcelona: En un multitudinari míting al Palau de Sant Jordi de la campanya electoral que portà Pasqual Maragall a la Generalitat , Rodríguez Zapatero promet donar suport a la reforma de l' Estatut de Catalunya que aprovi el Parlament de Catalunya.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 14
+    },
+    {
+      "year": null,
+      "title": "1762 , Castell de Fontainebleau , Regne de França : Se signa el Tractat de Fontainebleau…",
+      "text": "1762 , Castell de Fontainebleau , Regne de França : Se signa el Tractat de Fontainebleau entre França i el Regne d'Espanya pel qual la primera cedeix la Louisiana a Espanya.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 2015,
+      "title": "Atemptats de París del 13 i 14 de novembre de 2015",
+      "text": "Atemptats de París del 13 i 14 de novembre de 2015.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 5
+    },
+    {
+      "year": null,
+      "title": "1985 , Armero , Tolima , Colòmbia : el volcà Nevado del Ruiz erupciona causant la tragèdia…",
+      "text": "1985 , Armero , Tolima , Colòmbia : el volcà Nevado del Ruiz erupciona causant la tragèdia d'Armero on unes 23.000 persones van morir a causa principal de la inhumació pels lahars creats per l'erupció.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/13_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "pera Blanquilla",
+      "poma Fuji",
+      "taronja navel",
+      "poma Gala"
+    ],
+    "hortalisses": [
+      "enciam",
+      "pèsols",
+      "patata tardana",
+      "ceba",
+      "pastanaga"
+    ],
+    "pesca": [
+      "calamar",
+      "llenguado",
+      "bonítol"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-11-13T14:24:48+01:00"
+}
