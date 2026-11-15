@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-15",
+  "date_ca": "Diumenge, 15 de novembre de 2026",
+  "day_of_year": 319,
+  "days_remaining": 46,
+  "week": 46,
+  "location": "Barcelona",
+  "sunrise": "07:39",
+  "sunset": "17:31",
+  "moon_phase": "quart creixent",
+  "saints": [
+    "Sant Albert el Gran Bisbe i doctor de l'Església",
+    "Sant Leopold d'Àustria"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/15",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2004,
+      "title": "Brussel·les ( Bèlgica ): el Govern d' Andorra hi signa l'acord de cooperació amb la Unió…",
+      "text": "Brussel·les ( Bèlgica ): el Govern d' Andorra hi signa l'acord de cooperació amb la Unió Europea tancat el 30 d'abril.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 13
+    },
+    {
+      "year": 1966,
+      "title": "Madrid : S'estrena el segon canal de TVE ( TVE 2 ), coneguda al principi com l'UHF , que…",
+      "text": "Madrid : S'estrena el segon canal de TVE ( TVE 2 ), coneguda al principi com l'UHF , que emetia continguts culturals, esportius i de servei públic, de baixa audiència.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 2004,
+      "title": "Brussel·les ( Bèlgica ): els governs de Mònaco , San Marino i Liechtenstein hi signen un…",
+      "text": "Brussel·les ( Bèlgica ): els governs de Mònaco , San Marino i Liechtenstein hi signen un acord de cooperació amb la Unió Europea.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1889,
+      "title": "Brasil : l' emperador Pere II és deposat per un cop d'estat i es proclama la República del…",
+      "text": "Brasil : l' emperador Pere II és deposat per un cop d'estat i es proclama la República del Brasil.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/15_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 22
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "clementina",
+      "raïm",
+      "pera Llimonera",
+      "poma Reineta"
+    ],
+    "hortalisses": [
+      "patata tardana",
+      "albergínia",
+      "cogombre",
+      "bròquil",
+      "pastanaga"
+    ],
+    "pesca": [
+      "sípia",
+      "llenguado",
+      "galera"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-11-15T13:56:26+01:00"
+}
