@@ -1,75 +1,61 @@
 {
-  "date": "2026-11-16",
-  "date_ca": "Dilluns, 16 de novembre de 2026",
-  "day_of_year": 320,
-  "days_remaining": 45,
+  "date": "2026-11-17",
+  "date_ca": "Dimarts, 17 de novembre de 2026",
+  "day_of_year": 321,
+  "days_remaining": 44,
   "week": 47,
   "location": "Barcelona",
-  "sunrise": "07:41",
-  "sunset": "17:30",
+  "sunrise": "07:42",
+  "sunset": "17:29",
   "moon_phase": "quart creixent",
   "saints": [
-    "Santa Margarida d'Escòcia Reina",
-    "Santa Gertrudis Verge"
+    "Santa Isabel d'Hongria",
+    "Sants Iscle i Victòria Màrtirs"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/16",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/17",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": null,
-      "title": "1938 , Catalunya , esp. Terra Alta i Ribera d'Ebre : S'acaba la batalla de l'Ebre , la més…",
-      "text": "1938 , Catalunya , esp. Terra Alta i Ribera d'Ebre : S'acaba la batalla de l'Ebre , la més sagnant de la Guerra Civil espanyola.",
+      "year": 1794,
+      "title": "Figueres ( Alt Empordà ): durant la Guerra Gran , l'exèrcit francès derrota l'espanyol a…",
+      "text": "Figueres ( Alt Empordà ): durant la Guerra Gran , l'exèrcit francès derrota l'espanyol a Mont-roig , fet que els permet ocupar la ciutat.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_novembre",
       "verified": false,
       "origin": "automatic",
       "score": 10
     },
     {
-      "year": null,
-      "title": "1870 , Madrid : Amadeu de Savoia és proclamat rei d'Espanya com a Amadeu I",
-      "text": "1870 , Madrid : Amadeu de Savoia és proclamat rei d'Espanya com a Amadeu I.",
-      "scope": "ESP",
-      "territory": "Espanya",
-      "category": "historia_politica_geografia",
-      "importance": 3,
-      "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_novembre",
-      "verified": false,
-      "origin": "automatic",
-      "score": 9
-    },
-    {
-      "year": null,
-      "title": "1904 , Londres , Anglaterra : John Fleming patenta el díode d' incandescència o vàlvula…",
-      "text": "1904 , Londres , Anglaterra : John Fleming patenta el díode d' incandescència o vàlvula termoiònica que havia inventat basant-se en l' efecte Edison , que William Hammer , un dels enginyers d' Edison , havia descobert el 1883 ; aquest fet es considera l'inici de l' electrònica.",
+      "year": 1869,
+      "title": "París (França): es publica L'educació sentimental , novel·la de Gustave Flaubert",
+      "text": "París (França): es publica L'educació sentimental , novel·la de Gustave Flaubert.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 2,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 2
+      "score": 4
     },
     {
-      "year": null,
-      "title": "1805 , Estats Units : Tractat de Mount Dexter entre els Estats Units i els choctaws",
-      "text": "1805 , Estats Units : Tractat de Mount Dexter entre els Estats Units i els choctaws.",
+      "year": 1983,
+      "title": "Chiapas ( Mèxic ): fundació de l' Exèrcit Zapatista d'Alliberament Nacional",
+      "text": "Chiapas ( Mèxic ): fundació de l' Exèrcit Zapatista d'Alliberament Nacional.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/16_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/17_de_novembre",
       "verified": false,
       "origin": "automatic",
       "score": 10
@@ -85,22 +71,22 @@
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "poma Gala",
-      "pera Conference",
+      "clementina",
       "pera Blanquilla",
-      "poma Golden"
+      "taronja navel",
+      "pera Llimonera"
     ],
     "hortalisses": [
-      "pebrot",
-      "all tendre",
-      "albergínia",
       "espinacs",
-      "mongeta verda"
+      "carbassó",
+      "carxofa",
+      "enciam",
+      "col"
     ],
     "pesca": [
-      "llenguado",
-      "bonítol",
-      "sípia"
+      "calamar",
+      "galera",
+      "llenguado"
     ],
     "all": {
       "fruites": [
@@ -157,9 +143,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Miquel Martí i Pol",
-    "text": "Tot està per fer i tot és possible.",
-    "source": "Ara mateix"
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
   },
-  "generated_at": "2026-11-16T14:58:18+01:00"
+  "generated_at": "2026-11-17T15:52:01+01:00"
 }
