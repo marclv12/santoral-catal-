@@ -1,61 +1,75 @@
 {
-  "date": "2026-11-19",
-  "date_ca": "Dijous, 19 de novembre de 2026",
-  "day_of_year": 323,
-  "days_remaining": 42,
+  "date": "2026-11-20",
+  "date_ca": "Divendres, 20 de novembre de 2026",
+  "day_of_year": 324,
+  "days_remaining": 41,
   "week": 47,
   "location": "Barcelona",
-  "sunrise": "07:44",
-  "sunset": "17:28",
+  "sunrise": "07:45",
+  "sunset": "17:27",
   "moon_phase": "gibosa creixent",
   "saints": [
-    "Santa Matilde de Hackeborn Verge",
-    "Sant Abdies Profeta"
+    "Sants Octavi, Adventor i Solutor Màrtirs",
+    "Sant Dàsius Màrtir"
   ],
   "saint_source": {
     "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/19",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/20",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": null,
-      "title": "2004 , Madrid , Espanya : María Teresa Fernández de la Vega , vicepresidenta primera i…",
-      "text": "2004 , Madrid , Espanya : María Teresa Fernández de la Vega , vicepresidenta primera i portaveu del govern espanyol, reconeix la unitat lingüística de la llengua catalana anomenant-la com la \" llengua que es coneix com a valencià a la Comunitat Valenciana , i que com a tal figura al seu Estatut d'Autonomia , i que es coneix amb la denominació de català a la comunitat científica i universitària \".",
+      "year": 1932,
+      "title": "Se celebren Eleccions al Parlament de Catalunya , les úniques del període republicà , per…",
+      "text": "Se celebren Eleccions al Parlament de Catalunya , les úniques del període republicà , per constituir les institucions i passar d'un govern provisional a un d' estatutari amb Francesc Macià ratificat com a president i Lluís Companys com a president del Parlament.",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 20
+      "score": 23
     },
     {
-      "year": 1933,
-      "title": "Espanya . Se celebren a Espanya les primeres eleccions amb sufragi universal , que són les…",
-      "text": "Espanya . Se celebren a Espanya les primeres eleccions amb sufragi universal , que són les segones eleccions generals de la Segona República Espanyola per a les Corts.",
+      "year": 1936,
+      "title": "Buenaventura Durruti , sindicalista i revolucionari anarquista, mort en la defensa de…",
+      "text": "Buenaventura Durruti , sindicalista i revolucionari anarquista, mort en la defensa de Madrid. A més, a la presó d'Alacant, és afusellat José Antonio Primo de Rivera (fundador de la falange espanyola).",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 2,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 12
+      "score": 3
     },
     {
-      "year": 1493,
-      "title": "Inici de la batalla de Delebio entre el Ducat de Milà i la República de Venècia",
-      "text": "Inici de la batalla de Delebio entre el Ducat de Milà i la República de Venècia.",
+      "year": 1815,
+      "title": "París : Signatura del Tractat de París després de la desfeta de Napoleó Bonaparte en la…",
+      "text": "París : Signatura del Tractat de París després de la desfeta de Napoleó Bonaparte en la batalla de Waterloo . Estableix una multa per França , que ha de tornar a les seves fronteres de 1720. A més a més, estableix l' abolició del comerç d'esclaus en els països signants.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 16
+    },
+    {
+      "year": 2012,
+      "title": "Goma , República Democràtica del Congo : El grup armat M23 pren la ciutat congolesa de Goma…",
+      "text": "Goma , República Democràtica del Congo : El grup armat M23 pren la ciutat congolesa de Goma , a la frontera amb Ruanda.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
       "importance": 3,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/19_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
       "verified": false,
       "origin": "automatic",
       "score": 10
@@ -71,22 +85,22 @@
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "poma Golden",
-      "pera Conference",
-      "taronja navel",
-      "pomes vermelles"
+      "pera Blanquilla",
+      "clementina",
+      "pera Llimonera",
+      "raïm"
     ],
     "hortalisses": [
-      "coliflor",
-      "cogombre",
-      "albergínia",
-      "patata tardana",
-      "bròquil"
+      "col",
+      "espinacs",
+      "enciam",
+      "carxofa",
+      "patata tardana"
     ],
     "pesca": [
-      "galera",
-      "lluç",
-      "calamar"
+      "llenguado",
+      "calamar",
+      "lluç"
     ],
     "all": {
       "fruites": [
@@ -143,9 +157,9 @@
   },
   "international_days": [],
   "quote": {
-    "author": "Joan Maragall",
-    "text": "La sardana és la dansa més bella de totes les danses que es fan i es desfan.",
-    "source": "La sardana"
+    "author": "Miquel Martí i Pol",
+    "text": "Tot està per fer i tot és possible.",
+    "source": "Ara mateix"
   },
-  "generated_at": "2026-11-19T15:39:54+01:00"
+  "generated_at": "2026-11-20T15:19:34+01:00"
 }
