@@ -1,78 +1,88 @@
 {
-  "date": "2026-11-20",
-  "date_ca": "Divendres, 20 de novembre de 2026",
-  "day_of_year": 324,
-  "days_remaining": 41,
+  "date": "2026-11-21",
+  "date_ca": "Dissabte, 21 de novembre de 2026",
+  "day_of_year": 325,
+  "days_remaining": 40,
   "week": 47,
   "location": "Barcelona",
-  "sunrise": "07:45",
+  "sunrise": "07:46",
   "sunset": "17:27",
   "moon_phase": "gibosa creixent",
   "saints": [
-    "Sants Octavi, Adventor i Solutor Màrtirs",
-    "Sant Dàsius Màrtir"
+    "Santa Maria, Mare de DÃ©u",
+    "Sant Basili el Gran (330-379), bisbe de Cesarea de la CapadÃ²cia, i sant Gregori NacianzÃ¨ (330-390), bisbe de Constantinoble, doctors de l'EsglÃ©sia",
+    "Sant Anter, papa (grec, 235-236) i mr",
+    "Sant Rigobert, bisbe",
+    "Sant TelÃ¨sfor, papa (grec, 125-136) i mr",
+    "Sant Ramon de Penyafort (+1275), prev. dominicÃ, del PenedÃ¨s, patrÃ³ dels juristes i canonistes",
+    "Sant ApolÂ·linar, bisbe",
+    "Sant Eulogi de CÃ²rdova, prev. i mr. (859) mossÃ rab",
+    "Sant AgatÃ³, papa (siciliÃ, 678-681)",
+    "Sant Higini, papa (grec, 136-140) i mr",
+    "Sant Arcadi, mr",
+    "Sant Hilari (+367), bisbe de Poitiers i doctor de l'EsglÃ©sia"
   ],
   "saint_source": {
-    "name": "Conferència Episcopal Tarraconense",
-    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/20",
+    "name": "Santoral català — eCampmany",
+    "url": "https://www.ecampmany.com/santoral/",
     "status": "live"
   },
   "efemerides": [
     {
-      "year": 1932,
-      "title": "Se celebren Eleccions al Parlament de Catalunya , les úniques del període republicà , per…",
-      "text": "Se celebren Eleccions al Parlament de Catalunya , les úniques del període republicà , per constituir les institucions i passar d'un govern provisional a un d' estatutari amb Francesc Macià ratificat com a president i Lluís Companys com a president del Parlament.",
+      "year": 1993,
+      "title": "Terrassa : Els Minyons de Terrassa carreguen per primer cop a la història del món casteller…",
+      "text": "Terrassa : Els Minyons de Terrassa carreguen per primer cop a la història del món casteller el 2 de 9 amb folre i manilles . Aquesta fita marca l'inici de la segona època d'or de la història dels castells, que els cronistes anomenaran \"Època de platí\".",
       "scope": "CAT",
       "territory": "Països Catalans",
       "category": "historia_politica_geografia",
-      "importance": 4,
+      "importance": 2,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 23
+      "score": 4
     },
     {
-      "year": 1936,
-      "title": "Buenaventura Durruti , sindicalista i revolucionari anarquista, mort en la defensa de…",
-      "text": "Buenaventura Durruti , sindicalista i revolucionari anarquista, mort en la defensa de Madrid. A més, a la presó d'Alacant, és afusellat José Antonio Primo de Rivera (fundador de la falange espanyola).",
+      "year": null,
+      "title": "1931 Madrid : el Govern de la Segona República proclama la Llei de Contractes de Treball que…",
+      "text": "1931 Madrid : el Govern de la Segona República proclama la Llei de Contractes de Treball que establia per primer cop el dret a vacances pagades —7 dies a l'any—, regulava els convenis col·lectius, dictaminava les condicions de suspensió i rescissió de contractes, i protegia el dret de vaga. Estats Units : s'estrena la pel·lícula Frankenstein , de James Whale , un clàssic del cinema.",
       "scope": "ESP",
       "territory": "Espanya",
       "category": "historia_politica_geografia",
-      "importance": 2,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 3
+      "score": 14
     },
     {
-      "year": 1815,
-      "title": "París : Signatura del Tractat de París després de la desfeta de Napoleó Bonaparte en la…",
-      "text": "París : Signatura del Tractat de París després de la desfeta de Napoleó Bonaparte en la batalla de Waterloo . Estableix una multa per França , que ha de tornar a les seves fronteres de 1720. A més a més, estableix l' abolició del comerç d'esclaus en els països signants.",
+      "year": 2004,
+      "title": "Ucraïna : Víktor Ianukòvitx , el candidat governamental i pro-rus , hi guanyà unes eleccions…",
+      "text": "Ucraïna : Víktor Ianukòvitx , el candidat governamental i pro-rus , hi guanyà unes eleccions presidencials que, el 3 de desembre , el Tribunal Suprem del país declararà fraudulentes i en proclamarà guanyador el candidat de l'oposició, Víktor Iutxenko.",
       "scope": "EUR",
       "territory": "Europa",
       "category": "historia_politica_geografia",
       "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 16
+      "score": 13
     },
     {
-      "year": 2012,
-      "title": "Goma , República Democràtica del Congo : El grup armat M23 pren la ciutat congolesa de Goma…",
-      "text": "Goma , República Democràtica del Congo : El grup armat M23 pren la ciutat congolesa de Goma , a la frontera amb Ruanda.",
+      "year": 1995,
+      "title": "Dayton ( Ohio , Estats Units ): Es signen els Acords de Dayton , l'acord de pau que va posar…",
+      "text": "Dayton ( Ohio , Estats Units ): Es signen els Acords de Dayton , l'acord de pau que va posar el punt final als més de tres anys de guerra a Bòsnia.",
       "scope": "GLOBAL",
       "territory": "Món",
       "category": "historia_politica_geografia",
-      "importance": 3,
+      "importance": 4,
       "source_name": "Viquipèdia catalana — efemèrides del dia",
-      "source_url": "https://ca.wikipedia.org/wiki/20_de_novembre",
+      "source_url": "https://ca.wikipedia.org/wiki/21_de_novembre",
       "verified": false,
       "origin": "automatic",
-      "score": 10
+      "score": 13
     }
   ],
   "scope_order": [
@@ -85,22 +95,22 @@
   "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
   "seasonal_foods": {
     "fruites": [
-      "pera Blanquilla",
-      "clementina",
       "pera Llimonera",
-      "raïm"
+      "poma Reineta",
+      "pera Williams",
+      "poma Golden"
     ],
     "hortalisses": [
-      "col",
-      "espinacs",
-      "enciam",
-      "carxofa",
-      "patata tardana"
+      "mongeta verda",
+      "pebrot",
+      "bleda",
+      "coliflor",
+      "pèsols"
     ],
     "pesca": [
-      "llenguado",
-      "calamar",
-      "lluç"
+      "sípia",
+      "bonítol",
+      "calamar"
     ],
     "all": {
       "fruites": [
@@ -161,5 +171,5 @@
     "text": "Tot està per fer i tot és possible.",
     "source": "Ara mateix"
   },
-  "generated_at": "2026-11-20T15:19:34+01:00"
+  "generated_at": "2026-11-21T14:41:24+01:00"
 }
