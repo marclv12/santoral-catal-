@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-22",
+  "date_ca": "Diumenge, 22 de novembre de 2026",
+  "day_of_year": 326,
+  "days_remaining": 39,
+  "week": 47,
+  "location": "Barcelona",
+  "sunrise": "07:48",
+  "sunset": "17:26",
+  "moon_phase": "gibosa creixent",
+  "saints": [
+    "Santa Cecília Verge i Màrtir"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/22",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2002,
+      "title": "Vila-seca : Josep Carreras i Coll inaugura l'auditori del Conservatori de Música",
+      "text": "Vila-seca : Josep Carreras i Coll inaugura l'auditori del Conservatori de Música.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/22_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1975,
+      "title": "Madrid : Joan Carles I és coronat rei d' Espanya",
+      "text": "Madrid : Joan Carles I és coronat rei d' Espanya.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/22_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 2005,
+      "title": "Berlín : Angela Merkel ( CDU ) és nomenada cancellera d' Alemanya pel Bundestag",
+      "text": "Berlín : Angela Merkel ( CDU ) és nomenada cancellera d' Alemanya pel Bundestag.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 2,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/22_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 4
+    },
+    {
+      "year": 1963,
+      "title": "Dallas ( Texas ): John Fitzgerald Kennedy , 35è president dels Estats Units, és assassinat",
+      "text": "Dallas ( Texas ): John Fitzgerald Kennedy , 35è president dels Estats Units, és assassinat.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/22_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "pera Williams",
+      "poma Gala",
+      "poma Golden",
+      "pera Llimonera"
+    ],
+    "hortalisses": [
+      "pebrot",
+      "carbassó",
+      "mongeta verda",
+      "bròquil",
+      "escarola"
+    ],
+    "pesca": [
+      "bonítol",
+      "galera",
+      "llenguado"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Salvador Espriu",
+    "text": "Ens mantindrem fidels per sempre més al servei d'aquest poble.",
+    "source": "Inici de càntic en el temple"
+  },
+  "generated_at": "2026-11-22T14:34:48+01:00"
+}
