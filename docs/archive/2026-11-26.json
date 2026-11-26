@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-26",
+  "date_ca": "Dijous, 26 de novembre de 2026",
+  "day_of_year": 330,
+  "days_remaining": 35,
+  "week": 48,
+  "location": "Barcelona",
+  "sunrise": "07:52",
+  "sunset": "17:24",
+  "moon_phase": "gibosa minvant",
+  "saints": [
+    "Sant Silvestre Guzzolini Abat i fundador",
+    "Sant Lleonard de Porto Mauricio Predicador"
+  ],
+  "saint_source": {
+    "name": "Conferència Episcopal Tarraconense",
+    "url": "https://santoral.tarraconense.cat/Calendari/2026/11/26",
+    "status": "live"
+  },
+  "efemerides": [
+    {
+      "year": 2009,
+      "title": "Catalunya : Dotze diaris catalans publiquen un editorial conjunt sota el títol La dignitat…",
+      "text": "Catalunya : Dotze diaris catalans publiquen un editorial conjunt sota el títol La dignitat de Catalunya vers el Tribunal Constitucional i la sentència de l' Estatut de Catalunya . Els diaris publicants són: El Periódico , La Vanguardia , Avui , El Punt , Diari de Girona , Diari de Tarragona , Segre , La Mañana , Regió7 , El 9 Nou , Diari de Sabadell i Diari de Terrassa . Diferents mitjans de comunicació privats i altres persones s'adhereixen posteriorment a la iniciativa.",
+      "scope": "CAT",
+      "territory": "Països Catalans",
+      "category": "historia_politica_geografia",
+      "importance": 4,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 14
+    },
+    {
+      "year": 1992,
+      "title": "Madrid , Espanya : S'aprova la llei 30/1992 , instrument regulador de totes les…",
+      "text": "Madrid , Espanya : S'aprova la llei 30/1992 , instrument regulador de totes les administracions públiques espanyoles.",
+      "scope": "ESP",
+      "territory": "Espanya",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    },
+    {
+      "year": 1939,
+      "title": "Mainila , URSS , és atacada essent usat com a casus belli i donant un pretext per a la…",
+      "text": "Mainila , URSS , és atacada essent usat com a casus belli i donant un pretext per a la invasió de Finlàndia en el marc de la 2a guerra mundial . Vegeu incident de Mainila.",
+      "scope": "EUR",
+      "territory": "Europa",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 10
+    },
+    {
+      "year": 1476,
+      "title": "Valàquia : Vlad Tepes derrota Basarab Laiota amb l'ajuda d' Esteve el Gran i Esteve V…",
+      "text": "Valàquia : Vlad Tepes derrota Basarab Laiota amb l'ajuda d' Esteve el Gran i Esteve V Báthory , i esdevé príncep de Valàquia per tercer cop.",
+      "scope": "GLOBAL",
+      "territory": "Món",
+      "category": "historia_politica_geografia",
+      "importance": 3,
+      "source_name": "Viquipèdia catalana — efemèrides del dia",
+      "source_url": "https://ca.wikipedia.org/wiki/26_de_novembre",
+      "verified": false,
+      "origin": "automatic",
+      "score": 7
+    }
+  ],
+  "scope_order": [
+    "CAT",
+    "ESP",
+    "EUR",
+    "GLOBAL"
+  ],
+  "refrany": null,
+  "seasonal_note": "El novembre és temps d'oliva, de sembra de cereals i de preparar el camp per al fred.",
+  "seasonal_foods": {
+    "fruites": [
+      "clementina",
+      "pera Conference",
+      "poma Fuji",
+      "poma Gala"
+    ],
+    "hortalisses": [
+      "tomàquet",
+      "escarola",
+      "pebrot",
+      "mongeta verda",
+      "pastanaga"
+    ],
+    "pesca": [
+      "galera",
+      "calamar",
+      "sípia"
+    ],
+    "all": {
+      "fruites": [
+        "clementina",
+        "taronja navel",
+        "poma Golden",
+        "pomes vermelles",
+        "poma Fuji",
+        "poma Reineta",
+        "poma Gala",
+        "pera Llimonera",
+        "pera Williams",
+        "pera Blanquilla",
+        "pera Conference",
+        "raïm"
+      ],
+      "hortalisses": [
+        "patata tardana",
+        "ceba",
+        "all tendre",
+        "porro",
+        "mongeta verda",
+        "pèsols",
+        "espinacs",
+        "bleda",
+        "enciam",
+        "escarola",
+        "tomàquet",
+        "pastanaga",
+        "pebrot",
+        "carxofa",
+        "api",
+        "albergínia",
+        "carbassó",
+        "col",
+        "coliflor",
+        "bròquil",
+        "cogombre"
+      ],
+      "pesca": [
+        "galera",
+        "sípia",
+        "llenguado",
+        "calamar",
+        "bonítol",
+        "lluç"
+      ]
+    },
+    "source": {
+      "name": "Generalitat de Catalunya — calendari de productes de temporada",
+      "url": "https://agricultura.gencat.cat/web/.content/04-alimentacio/cadena-alimentaria/codi-bones-practiques-comercials/documents/fitxers-binaris/calendari-productes-temporada.pdf",
+      "note": "La temporada pot variar segons la comarca, l’anyada i les condicions meteorològiques."
+    }
+  },
+  "international_days": [],
+  "quote": {
+    "author": "Joan Fuster",
+    "text": "Tota política que no fem nosaltres serà feta contra nosaltres.",
+    "source": "Diccionari per a ociosos"
+  },
+  "generated_at": "2026-11-26T16:44:39+01:00"
+}
